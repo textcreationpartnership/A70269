@@ -1,0 +1,631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The alteration of the coyn, with a feasible method to do it most humbly proposed to both houses of Parliament. To which is annexed, a projection, or scheem of reasonable terms, for establishing a firm and general peace in Europe. / By Thomas Houghton, of Lyme-Street, Gent.</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70269</idno>
+            <idno type="STC">Wing H2923A</idno>
+            <idno type="STC">ESTC R20595</idno>
+            <idno type="EEBO-CITATION">99834772</idno>
+            <idno type="PROQUEST">99834772</idno>
+            <idno type="VID">39300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 107:14 or 1812:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The alteration of the coyn, with a feasible method to do it most humbly proposed to both houses of Parliament. To which is annexed, a projection, or scheem of reasonable terms, for establishing a firm and general peace in Europe. / By Thomas Houghton, of Lyme-Street, Gent.</title>
+                  <author>Houghton, Thomas, Gent.</author>
+                  <author>Houghton, Thomas, Gent. Europe's glory.</author>
+               </titleStmt>
+               <extent>50, 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Europe's glory has separate t.p., pagination, and register.</note>
+                  <note>Item at reel 107:14 incorrectly identified as Wing (2nd ed.) H2923.</note>
+                  <note>Item at reel 107:14 lacks Europe's glory.</note>
+                  <note>Europe's glory (Wing H2927) appears separately at reel 497:30.</note>
+                  <note>Reproduction of the original at the Columbia University Library (reel 107) and the British Library (reel 1812).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain --  Early works to 1800.</term>
+               <term>Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39300:1"/>
+            <pb facs="tcp:39300:1"/>
+            <p>THE ALTERATION OF THE COYN, WITH A Feaſible Method TO DO IT, Moſt Humbly PROPOSED to Both Houſes of PARLIAMENT. To which is ANNEXED, A PROJECTION, or SCHEEM of <hi>Reaſonable Terms,</hi> for Eſta<g ref="char:EOLhyphen"/>bliſhing a Firm and General Peace in Europe.</p>
+            <p>By Thomas Houghton, of <hi>Lyme-ſtreet,</hi> Gent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOUR, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:39300:2"/>
+            <pb n="3" facs="tcp:39300:2"/>
+            <head>THE <hi>Alteration of the Coyn,</hi> Moſt Humbly Propoſed to Both Houſes of Parliament.</head>
+            <opener>
+               <salute>Moſt Great and Prudent Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU cannot but be very ſenſible of the de<g ref="char:EOLhyphen"/>plorable Misfortune Your Selves, and the People of this Nation, are under, by the <hi>Clipt</hi> and <hi>Counterfeit Money</hi> of this King<g ref="char:EOLhyphen"/>dom; the <hi>Good Money,</hi> which is now left, being ſo ſmall, and little in Subſtance, that 'tis ſcarcely to be known and diſtinguiſhed from the <hi>Bad</hi> and <hi>Counterfeit,</hi> except it be by ſuch who are daily Receivers and Payers of Sums of Money; for 'tis every Day more and more manifeſt, That there are abundance of Rich, as well as Poor People, extreamly Cheated, who not being able to know <hi>Good</hi> and <hi>Bad Money</hi> aſunder, are great Sufferers by it, which too frequently falls amongſt the Poor, to their great Grief and Trouble, with whoſe Clamours and Complaints the whole Nation rings, the Diſtemper and Infection being, as it were Epidemical, and univerſally ſpread through the Nation, ſo that every one is ready to cry, <hi>Lord have Mercy upon us!</hi> It is therefore reaſonable to believe, You will All unanimouſly
+<pb n="4" facs="tcp:39300:3"/>grant, That there is an abſolute Neceſſity to alter the <hi>Coyn;</hi> and that You will conſider and think upon ſome proper Way or Method, this <hi>Seſſions of Parliament,</hi> to amend this over<g ref="char:EOLhyphen"/>grown Miſchief, which, if not ſpeedily prevented, will, in a little time, ſink the Nation to a low degree: The real and true <hi>Silver Coyn</hi> being thus ſhamefully <hi>Clipp'd,</hi> and the <hi>Mill'd Money</hi> Melted down, and carried off, there is little left to Trade with, but ſuch that is <hi>Counterfeit,</hi> or <hi>half Clipp'd away,</hi> which creates ſo much difficulty in Paying and Receiving, that Buſineſs is found to be a Burthen, and Paying and Re<g ref="char:EOLhyphen"/>ceiving of Money become the greateſt Perplexity of the People; ſo that all Perſons hope and believe it will be Your Care, with all the Expedition that may be, to VOTE, <hi>The Alteration of the Coyn,</hi> and to uſe Your Endeavours that it may be Alter'd, and new Regulated, which may hap<g ref="char:EOLhyphen"/>pily prevent many Diſorders that may otherwiſe fall amongſt Multitudes of People in this Kingdom; and that You will do it in this juncture of Time by ſuch Ways and Methods as will be leaſt Burthenſome to the KING, and all degrees of his Subjects, conſidering the great <hi>Taxes</hi> and <hi>Impo<g ref="char:EOLhyphen"/>ſitions</hi> that are to be Paid for Carrying on the <hi>Wars,</hi> till an Honourable and Laſting PEACE can be procured; which <hi>Taxes</hi> and <hi>Impoſitions</hi> will be difficultly raiſed upon the Calling in the Money, unleſs the People find Yours and His Majeſty's Favour in Regulating and Valuing the <hi>Coyn,</hi> and fixing a certain Price upon <hi>Guinneas:</hi> And in what point that Favour for Indulging the People doth conſiſt, is in the following Paragraphs further expreſt: So that before I come to ſet forth any of thoſe <hi>Ways</hi> and <hi>Methods</hi> for Altering the COYN, and Favouring the People, it may not be amiſs to ſay ſomething concerning the <hi>Encreaſe</hi> and <hi>Pro<g ref="char:EOLhyphen"/>duction</hi> of SILVER and GOLD, how, and by who, they have been procur'd, when, and from whence, brought to this degree in Quantity, as they are now found to be in EUROPE.</p>
+            <pb n="5" facs="tcp:39300:3"/>
+            <p>IT is therefore to be underſtood, and I doubt not but all People will grant, That SILVER and GOLD are the <hi>Hinges</hi> upon which all <hi>Trade</hi> and <hi>Commerce</hi> moves in the moſt Flouriſhing Kingdoms on the <hi>Earth;</hi> and thoſe Nations and Kingdoms that abound with the greateſt Plenty thereof, are, by all other Trading Nations, moſt frequented with their Goods, in Order to obtain them, knowing them to be the moſt neceſſary and laſting Inſtruments to procure all things that are, or ſhall be found uſeful, or any ways ſerviceable to Mankind, being Portable and Durable, when moſt other Goods are Burthenſome, ſubject to Periſh and Decay: Experience having proved This in all Times and Places, makes <hi>Silver</hi> and <hi>Gold</hi> the more coveted and deſired; for every Nation, as they abound therewith, are more or leſs able to carry on <hi>Foreign Trades,</hi>— to make <hi>Improvements</hi> at Home or Abroad, to build <hi>Ships,</hi> and fit out <hi>Fleets</hi> to Sea, to maintain <hi>Wars,</hi> or to do and execute any other <hi>Thing</hi> or <hi>Things</hi> that requires Labour or Expence; all Nations, as well as private Perſons, driving their Trades according to the Proportion of <hi>Silver</hi> and <hi>Gold,</hi> they have whereby to procure Goods to Trade with.</p>
+            <p>IT is alſo to be conſidered, That the <hi>Trades</hi> of EUROPE, eſpecially thoſe of the <hi>Engliſh</hi> and <hi>Dutch,</hi> are an Hundred times greater now, than they were Two Hundred and Twenty Years ſince; for where there was One Thouſand Pounds worth of Goods imported or exported by either of them in thoſe times, there is an Hundred Thou<g ref="char:EOLhyphen"/>ſand Pounds worth imported and exported by Both of them now: The principle and chief Reaſon of This, hath been the Diſcoveries of GUINEY and AMERICA; for to them the <hi>Improvement</hi> of all <hi>Trade,</hi> in and to moſt Parts of the <hi>Earth,</hi> is chiefly owing: They having furniſhed <hi>Silver</hi> and <hi>Gold,</hi> whoſe Circulation hath pro<g ref="char:EOLhyphen"/>cured Goods not only for EUROPE, but for AFRICA
+<pb n="6" facs="tcp:39300:4"/>and ASIA; many Parts of EAST-INDIA having been ſupply'd, ſince their Diſcoveries, with great Quantities of <hi>Money</hi> and <hi>Silver,</hi> both Cony'd and Uncoyn'd, and eſpecially with <hi>Dollars,</hi> or <hi>Pieces of Eight,</hi> by the <hi>Engliſh, Dutch, French, Portuguieſe</hi> and <hi>Spaniards;</hi> for although <hi>Silver</hi> and <hi>Gold</hi> be inanimate, nevertheleſs they have, like a grateful Of-ſpring, plentifully ſupply'd AFRICA and AMERICA again with all neceſſary and ſerviceable Things, there wanted for Humane Uſe, in Return thereof: So that it may be neceſſary, for the Information of ſome People, to ſhew how <hi>Gold</hi> and <hi>Silver</hi> have, of late Years, been expanded or ſpread abroad in the World, and by who, and from whence they came, and when they begun to have this commanding Power and Influence upon <hi>Trade,</hi> as well as upon <hi>Man<g ref="char:EOLhyphen"/>kind.</hi>
+            </p>
+            <p>IN the Year 1471. The <hi>Portuguieſe</hi> diſcovered and found the <hi>Gold Coaſt</hi> of GUINEY, from whence they brought ſome Quantities of <hi>Gold,</hi> near the Value of Ten Thouſand Pounds <hi>per Annum;</hi> before which time there was but very little of <hi>Silver Coyn</hi> in ENGLAND, HOLLAND, or FRANCE, and but ſmall Quan<g ref="char:EOLhyphen"/>tities of <hi>Gold</hi> in EUROPE, in Compariſon to what there is now; ſo that ſince the <hi>Portuguieſe</hi> diſcovered thoſe Parts of AFRICA, they have had ſome Settlements there, and a Trade with the <hi>Natives;</hi> and have brought ſometimes greater or leſſer Quantities of <hi>Gold</hi> from thence into EUROPE.</p>
+            <p>IN the Year 1492. <hi>Chriſtopher Columbus,</hi> a Man Born at <hi>Genoa,</hi> being Fifty Years of Age, firſt found ſome Parts of AMERICA, and amongſt them the Iſland of <hi>Hiſpaniola,</hi> from whence ſome <hi>Gold</hi> was brought to <hi>Spain,</hi> to the Value of 200000 Ducats <hi>per Annum,</hi> which is 22222 <abbr>
+                  <hi>l.</hi>
+               </abbr> and 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> valuing the Ducat, as formerly it was, at 9 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+               <pb n="7" facs="tcp:39300:4"/>And after the Diſcovery of <hi>Hiſpaniola,</hi> and the Adjacent Iſlands, the ſaid <hi>Columbus,</hi> with many <hi>Spaniards,</hi> made ſeveral Voyages, and further Diſcoveries in AMERICA, bringing to SPAIN what <hi>Gold</hi> and <hi>Silver</hi> they found amongſt the <hi>Natives</hi> of thoſe Countries, who had greater Quantities of <hi>Gold</hi> than <hi>Silver</hi> amongſt them in thoſe times, becauſe the <hi>Gold</hi> lies in the Soil or ſuperficial part of the Earth, which they could eaſily come at; and the Earth being often waſht from the Mountains into the Guts and ſmall Brooks, and ſo carried down to the Rivers, they had ways to ſeparate it from the <hi>Sand;</hi> whereas, the getting of <hi>Silver</hi> is obtain'd by <hi>Mining,</hi> and requires <hi>Digging, Hewing, cutting down the Rocks,</hi> and <hi>blaſting them in pieces with Gun-Powder,</hi> which things the <hi>Natives</hi> of AMERICA did not then underſtand. Thus GOLD, the Darling and dearly be<g ref="char:EOLhyphen"/>loved by Mankind, being plentifully found amongſt the <hi>Natives</hi> in moſt Parts of this <hi>Newfound World,</hi> invited abun<g ref="char:EOLhyphen"/>dance of <hi>Spaniards,</hi> with ſome <hi>Jews,</hi> and other People, to flock thither, having heard the great Noiſe thereof in SPAIN.</p>
+            <p>BETWEEN the Years 1492 and 1515 (which is 22 Years) there were very great Diſcoveries made in AMERICA, by many <hi>Spaniards,</hi> both on the <hi>South</hi> and <hi>North</hi> Side of the Line, and particularly in theſe Provinces following, lying between the <hi>North</hi> and <hi>South</hi> Seas, which was thoroughly examined; <hi>(viz.) Dariena, Carthagena, Rio de la Hacha,</hi> St. <hi>Martha, Granada, Popyan, Venezula, Paria,</hi> and <hi>Panama,</hi> which Nine Provinces, for the Abundance of <hi>Gold</hi> that was, and is yet found in moſt of them, are called by the Name of <hi>Golden Caſtile.</hi>— At the ſame time the Province of <hi>Guiana</hi> was diſcovered; from all which Places there were great Quantities of <hi>Gold</hi> brought to SPAIN in few Years after; ſo that when the <hi>Spaniards</hi> had fully examined theſe Parts, and had taken Notice of the extent of that
+<pb n="8" facs="tcp:39300:5"/>
+               <hi>Iſthmus,</hi> or Neck of Land, lying between the <hi>North</hi> and <hi>South</hi> Seas. In the Year 1515, they choſe out a convenient Place, and there Built the now Famous and Renowned City, called PANAMA, ſtanding towards the <hi>South</hi> Sea, to which Place, all the <hi>Gold</hi> and <hi>Silver</hi> that now comes from <hi>Peru,</hi> and the <hi>Southern</hi> Parts, are brought, and there put a ſhoar, this City being the Receptacle of their <hi>Riches,</hi> from whence it is brought, part by Land, and part by Water-Carriage, about 20 Leagues, to a City on this ſide, called PORTO BELLO, and from thence Shipt for SPAIN: So that after the <hi>Spaniards</hi> had made theſe Diſcoveries in the Years above-mentioned, they grew mighty Induſtrious, and were extreamly buſied in <hi>Fitting out Ships,</hi> and <hi>Sending Men to this Part of the New-found World,</hi> there being freſh Diſcoveries made every Year of <hi>New Countries,</hi> and of <hi>Rich Mines,</hi> in various Parts of AMERICA; ſo that in the Reigns of <hi>Henry</hi> the 7th, <hi>Henry</hi> the 8th, and <hi>Edward</hi> the 6th, it was the Misfortune of ENGLAND not to enterprize or undertake any thing in this kind, and but very little ſince in thoſe Countries, where <hi>Silver</hi> and <hi>Gold Mines</hi> are.</p>
+            <p>IN the Year 1521, MEXICO was Conquered, and ſeveral Countries thereabouts, in which the <hi>Spaniards</hi> found much <hi>Gold</hi> amongſt the <hi>Natives,</hi> and have ſince diſcovered and laid open many Rich <hi>Silver Mines;</hi> from whence hath been brought ſeveral Hundreds of Tons of <hi>Silver</hi> in <hi>Pieces of Eight,</hi> and <hi>Bars of Bullion,</hi> to <hi>Cadiz</hi> in SPAIN; at which <hi>Mines</hi> the <hi>Natives</hi> and <hi>Spaniards,</hi> as now they do at all other <hi>Mines</hi> in AMERICA, draw the <hi>Silver</hi> from the <hi>Oar,</hi> by the help of <hi>Quick-Silver,</hi> the <hi>Oar</hi> being firſt powdered, and ground ſmall, till it is as fine as <hi>Wheat Flower,</hi> then put it into <hi>Tubs,</hi> mixing <hi>Quick-Silver</hi> and <hi>Lyme</hi> with it, grind it in <hi>Water,</hi> whereby the <hi>Quick Silver,</hi> being well mixt with the <hi>Oar,</hi> in few Days draws the <hi>Silver</hi> to it; when
+<pb n="9" facs="tcp:39300:5"/>having well cleans'd and waſh'd away all the <hi>Mud,</hi> the <hi>Silver</hi> and <hi>Quick-Silver</hi> remain together at the Bottom, which they take out, and put together into a <hi>Retort,</hi> and lute an <hi>Iron-Pipe</hi> faſt to it, the other end of the <hi>Pipe</hi> going into a <hi>Tub</hi> of <hi>cold Water,</hi> they then light the <hi>Fire</hi> under the <hi>Retort,</hi> which drives off all the <hi>Quick-Silver</hi> into the <hi>Tub</hi> of <hi>Water,</hi> which is never the worſe, but ſerves for uſe again and again to mix with <hi>freſh Oar,</hi> and the <hi>Silver</hi> remains by its ſelf in the <hi>Retort,</hi> which, when taken out, is Melted with ſeveral other Parcels of <hi>Silver,</hi> Refin'd after the ſame way, and ſo caſt into <hi>Ingots,</hi> or <hi>Bars of Bullion.</hi> And although Abundance of this <hi>Silver</hi> is brought to SPAIN, nevertheleſs the <hi>Spaniards</hi> and <hi>Natives</hi> in all Parts of AMERICA, where the <hi>Mines</hi> are, do keep and detain prodigious Quantities of <hi>Silver</hi> and <hi>Gold</hi> amongſt them, having Abundance of <hi>Ornaments,</hi> and moſt of their <hi>Veſſels</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>tenfils</hi> made of thoſe Metals; ſo that from the Province of <hi>Zacatecas,</hi> which lies on the <hi>North</hi> Side the Line, to the Province of <hi>Chili,</hi> that lies on the <hi>South</hi> Side, You may conclude and believe, There is much more <hi>Silver</hi> and <hi>Gold</hi> ready got, Refined, and above Ground, than there is now in all EUROPE. Where the <hi>Spaniards,</hi> in thoſe Parts, have taught the <hi>Natives</hi> the way of Buying and Selling with <hi>Silver</hi> and <hi>Gold,</hi> which, as well there as here, and in all other Places, is found more Commodious and Uſeful than the heavy and dull Way of <hi>Bartering</hi> one ſort of Goods for another.</p>
+            <p>IN the Year 1524, The great Country of PERU was Diſcovered, in which Country the <hi>Spaniards</hi> found vaſt Quantities of <hi>Silver,</hi> and eſpecially of <hi>Gold</hi> ready got, all the People of the Countrey having ſome <hi>Veſſels,</hi> or <hi>Ornamental Inſtruments,</hi> more or leſs, of that Metal: But the <hi>Spaniards</hi> having Conquered the <hi>Natives,</hi> fell into <hi>Wars</hi> amongſt themſelves; <hi>Franciſco Pizarro</hi> and <hi>Almagro,</hi> Two <hi>Spaniards</hi> ſtriving who ſhould be <hi>Governour</hi> (too much
+<pb n="10" facs="tcp:39300:6"/>
+               <hi>Gold</hi> making them <hi>Mad</hi>). And after <hi>Franciſco Pizarro</hi>'s Death, the Quarrels amongſt the <hi>Spaniards</hi> did not ceaſe; ſo that from their firſt Entrance into PERU, thoſe Diſ<g ref="char:EOLhyphen"/>orders laſted near Twenty Years, in which time there was a deal of <hi>Spaniſh</hi> and <hi>Indian</hi> Blood ſhed on both ſides, con<g ref="char:EOLhyphen"/>ſidering the Number of <hi>Spaniards</hi> that were there in thoſe times, which <hi>Wars</hi> were a great Hindrance to the Working the <hi>Silver Mines</hi> in PERU, till the Year 1546, when <hi>Pedro de la Gaſca,</hi> being ſent thither by the King of SPAIN as <hi>Vice Roy</hi> of PERU, Conquered <hi>Gonſalo Pizarro:</hi> After which, the <hi>Wars</hi> ceaſing, the Old and Famous <hi>Mines</hi> of <hi>Andacava,</hi> with many in <hi>Los Charcas,</hi> in the Province called the <hi>Lypes,</hi> and the wonderful Rich <hi>Mines</hi> of St. <hi>Chriſtophers,</hi> in ORURO, were ſet at work, in which <hi>Mines</hi> there was, and yet is, Abundance of fine <hi>Malliable Silver</hi> in <hi>Leaves</hi> and <hi>Threads,</hi> and alſo in <hi>Duſt,</hi> like to <hi>white Sand,</hi> which, of its ſelf, is perfect and pure <hi>Silver,</hi> brought to that Perfection by <hi>Nature,</hi> without <hi>Art</hi> or <hi>Fire,</hi> which wants no further Refining, but only waſhing and ſeparating the <hi>Earth</hi> from it, and is then fit for Melring. If any doubts the Truth of this, and thinks there is no <hi>Malliable Metal</hi> produc'd by <hi>Nature,</hi> but what is firſt ex<g ref="char:EOLhyphen"/>tracted from an <hi>Oar,</hi> by help of <hi>Fire,</hi> ſuch doubting Perſons may be fully and better ſatisfied, by going to ſee the <hi>Mineral Curioſities</hi> in the <hi>Repoſitory</hi> of <hi>Greſsham</hi>'s <hi>College,</hi> where they may ſee <hi>pure Silver</hi> and <hi>Gold,</hi> as they were taken out of the <hi>Mines,</hi> growing in the <hi>Rocky Spar.</hi> There were alſo ſet at Work, the <hi>Mines</hi> called <hi>La Trinidad,</hi> and thoſe of <hi>Berenguela,</hi> with many others near the Lake called <hi>Tobacco Nunio;</hi> upon the Brooks or Streams whereof, there ſtands above an Hundred <hi>Silver</hi> Mills, which con<g ref="char:EOLhyphen"/>ſtantly go Day and Night, ſtamping and grinding the <hi>Oar</hi> that is got in and about its own Banks: Theſe <hi>Veins,</hi> and many more, with the inexhauſtible <hi>Mines</hi> of <hi>Potozi,</hi> were preſently ſet at Work; — but the firſt <hi>Mines</hi> the <hi>Spaniards<g ref="char:punc">▪</g>
+               </hi>
+               <pb n="11" facs="tcp:39300:6"/>wrought and got <hi>Silver</hi> in, were, the Old <hi>Mines</hi> of <hi>Porco,</hi> which had been wrought many Years before by the INGAS, or Kings of the Countrey, and great Quantities of <hi>Silver</hi> got out of them. After this time the Mines of AMERICA, both on the <hi>South</hi> and <hi>North</hi> Side the Line, were followed with great Induſtry, and more new <hi>Mines</hi> were daily found and diſcovered, and amongſt them a great many <hi>Quick-Silver Mines,</hi> which have been a great Help to them in their Ways of <hi>Refining;</hi> ſo that from ſeveral Places of AMERICA, for near One Hundred and Fifty Years laſt paſt, there have been ſome Thouſands of Tons of <hi>Silver</hi> and <hi>Gold</hi> brought to <hi>Cadiz</hi> in SPAIN, eſpecially of <hi>Silver,</hi> of which all Nations in EUROPE have more or leſs participated.</p>
+            <p>IN the Years 1553, and 1554, which was in Queen <hi>Mary</hi>'s Reign, the <hi>Engliſh</hi> made Two Voyages to the <hi>Gold Coaſt</hi> of GUINEY, and brought ſome <hi>Gold</hi> from thence, and have ever ſince followed that Trade, ſo have ſeveral other Nations, from whence they have brought conſiderable Quantities of <hi>Gold</hi> into EUROPE; ſo that for about One Hundred and Forty Years laſt paſt, there have been, by the <hi>Engliſh, Danes, Dutch,</hi> and <hi>French,</hi> conſiderable Sums of <hi>Gold</hi> brought from GUINEY, and from the WEST-INDIES, being firſt brought thither by the <hi>Buccaneers.</hi> There have been many Cheſts of <hi>Dollars,</hi> with Abundance of <hi>Bullion,</hi> and ſome Parcels of <hi>Gold,</hi> for Forty Years laſt paſt, brought to ENGLAND, HOLLAND, and FRANCE, of which, the other Nations of EUROPE, and the EAST-INDIES have, in ſome meaſure, been Partakers. You may therefore truly reckon, AMERICA and GUINEY, the <hi>Springs</hi> and <hi>Fountains</hi> from whence the <hi>Silver</hi> and <hi>Golden Streams</hi> of EUROPE have flow'd; to which, <hi>Barbary</hi> hath afforded ſome ſmall Help in <hi>Gold,</hi> and <hi>Hungary</hi> in <hi>Silver;</hi> but neither of them worth mention<g ref="char:EOLhyphen"/>ing, in compariſon with the other Two.</p>
+            <pb n="12" facs="tcp:39300:7"/>
+            <p>Having thus briefly mentioned the <hi>Mines</hi> and <hi>Places</hi> that have furniſhed EUROPE with <hi>Silver</hi> and <hi>Gold,</hi> and when they firſt began to do ſo; It is now to be inquired, What <hi>Nations</hi> have had the greateſt Opportunities, and have uſed the moſt Endeavours to be Maſters thereof.</p>
+            <p>And whereas the <hi>Engliſh, Dutch,</hi> and <hi>French,</hi> have been the chief <hi>Trading Nations</hi> of EUROPE, whoſe <hi>Goods</hi> and <hi>Manufactures</hi> are, and always were, in better eſteem and demand by the <hi>Spaniards,</hi> and <hi>Natives</hi> of AMERICA, than any of the other <hi>Northern Kingdoms:</hi> Therefore, the <hi>Engliſh, Dutch,</hi> and <hi>French,</hi> (before theſe Wars) have not been wanting to furniſh them with Plenty thereof at <hi>Cadiz,</hi> and in ſeveral other Parts of SPAIN; — And, of late Years, in divers Parts of the WEST-INDIES, when and where fit Opportunities could be found, eſpecially, where and when the <hi>Spaniſh</hi> Governours have been inclinable to look through their Fingers, that a Stol'n Trade might be had with the <hi>Spaniards.</hi>
+            </p>
+            <p>Thus the <hi>Engliſh, Dutch,</hi> and <hi>French,</hi> had Opportunities to Buy and Sell, and to Exchange their Goods there with the <hi>Spaniards</hi> for <hi>Gold</hi> and <hi>Silver,</hi> whether in <hi>Dollars,</hi> or in <hi>Bullion,</hi> at very good Prices, whilſt the <hi>Germans, Danes, Norwegians, Sweeds</hi> and <hi>Hamburgers,</hi> have had no ſuch Liberty and Freedom in Trade, for want of Settlements in thoſe Parts; — ſo that the <hi>Engliſh, Dutch,</hi> and <hi>French,</hi> have drawn great Quantities of <hi>Silver</hi> and <hi>Gold</hi> from SPAIN, for near One Hundred and Fifty Years laſt paſt, according to their Proportions of Trade they have had with the <hi>Spaniards,</hi> and from the WEST-INDIES, for Forty Years paſt, by the <hi>Bucca<g ref="char:EOLhyphen"/>neers,</hi> and ſeveral other Ways, too long to be here recited: All which time the <hi>Germans, Danes, Norwegians, Sweeds, Poles,</hi> and <hi>Ruſſians,</hi> have ſtood ſtaring on, having their Hands, as it were, ty'd up, not knowing how, nor being able to procure
+<pb n="13" facs="tcp:39300:7"/>One Hundredth Part of the <hi>Silver</hi> and <hi>Gold</hi> the <hi>Engliſh, Dutch,</hi> and <hi>French</hi> have done, by reaſon the Goods of their Countries are not ſo fit for the <hi>Americans</hi> Uſe as others are, and for want of Settlements near them: This hath been the Cauſe that hath occaſion'd a great Scarcity and Want of <hi>Silver</hi> and <hi>Gold</hi> in thoſe Kingdoms, having but little amongſt them, in com<g ref="char:EOLhyphen"/>pariſon to what there is in ENGLAND, HOLLAND, and FRANCE; eſpecially in <hi>Norway, Sweedland, Poland,</hi> and <hi>Ruſſia,</hi> where there are many great Provinces or Coun<g ref="char:EOLhyphen"/>tries, and ſome of them near as large as ENGLAND is, a great Part of whoſe Inhabitants ſcarcely knew what <hi>Silver</hi> and <hi>Gold</hi> was, till of late Years, having not 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in <hi>Silver</hi> and <hi>Gold</hi> for ſome Hundreds of Miles in Circumference; ſo that if ENGLAND, HOLLAND, and FRANCE, were at <hi>Peace,</hi> and were in a Capacity to furniſh theſe Kingdoms with an Hundred Tons of <hi>Silver per Annum,</hi> they could diſpenſe with it, and, as far as they are able, would en<g ref="char:EOLhyphen"/>deavour to make Returns by their Countrey Goods, and allow very high Rates for Your <hi>Silver,</hi> although they daily want many of the <hi>Engliſh, Dutch,</hi> and <hi>French</hi> Effects, ſufficient to balance their Trade; nevertheleſs, <hi>Silver</hi> and <hi>Gold</hi> are be<g ref="char:EOLhyphen"/>come their beloved Objects, finding them the moſt ready and moſt durable Inſtruments to procure all neceſſary and ſer<g ref="char:EOLhyphen"/>viceable Things, being more ready, than any other Com<g ref="char:EOLhyphen"/>modity, to ſupply their Wants, as they are known and found to be by all other People of EUROPE; Experience having taught them in thoſe Parts, That with <hi>Silver</hi> and <hi>Gold</hi> they may Buy and Sell, go to Markets near or remote, and carry on their Trades more conveniently with them, than they can with <hi>Pitch, Tar, Hemp, Flax, Iron, Copper, Caveer, Pot-Aſhes, Briſtes, Fir-Timber, Furs,</hi> or any of their Commodities: There's no letting out theſe Goods at Intereſt, as <hi>Silver</hi> and <hi>Gold</hi> are done in ENGLAND, HOLLAND, and FRANCE, although they have learn'd the Way to do it, if they could procure the <hi>Silver</hi> and <hi>Gold.</hi> Therefore, You
+<pb n="14" facs="tcp:39300:8"/>have great reaſon to conclude and believe, If all the <hi>Silver</hi> and <hi>Gold</hi> that is in ENGLAND, HOLLAND, and FRANCE, as well the <hi>Coyned Money,</hi> as the <hi>
+                  <g ref="char:V">Ʋ</g>ncoyned Plate</hi> and <hi>Bullion,</hi> were to be remitted, and ſent into <hi>Germany, Denmark, Norway, Sweedland, Poland,</hi> and <hi>Ruſſia,</hi> they would now find Uſes ſufficient for them, and would yet crave more, having been all this time kept Hungry, and only fed with Snaps of what they ſo much deſire, and which they will not be without, if, for their Goods, they can procure them at any moderate Rates.</p>
+            <p>
+               <hi>IN this lies the Magnet, or Loadſtone, that hath ſo attracted and drawn Your</hi> Silver <hi>beyond Seas,</hi> to which all the <hi>Confederate Princes,</hi> and ſeveral others, whether Engaged, or not Engaged in the preſent <hi>Wars,</hi> have been under a Neceſſity of making the ſame Demands for ſome Years paſt; and this you may truly reckon the Cauſe of Your <hi>Silver Conſumption,</hi> which will be difficult now to prevent, eſpecially <hi>to take away, ſo that the Effects may ceaſe,</hi> conſidering how Circumſtances ſtand, at preſent, in the Affairs of EUROPE: However, this I will lay down for a Maxim, which You will certainly find true.</p>
+            <q>THAT unleſs the <hi>Coyn</hi> be much Abaſed and Allayed, or Raiſed very conſiderably in its <hi>Value,</hi> when-ever it is <hi>New Coyned,</hi> it will be <hi>Melted down,</hi> as it hath been, and ſent the ſame way, when You have done all You can to prevent it; (whither that is, You have ſufficient Infor<g ref="char:EOLhyphen"/>mation above) for the <hi>Inhabitants of thoſe Countries</hi> will have it, if it be poſſible, though at very extravagant Rates: Therefore, the beſt way will be, to make them pay ſoundly for it, if they will have it.</q>
+            <p>HAVING premis'd theſe things, and ſhew'd from whence the <hi>Silver</hi> and <hi>Gold</hi> came, by who, and when brought into
+<pb n="15" facs="tcp:39300:8"/>EUROPE, whereby the <hi>Trades,</hi> not only of EUROPE, but of moſt Parts of the <hi>Earth,</hi> have been extreamly Im<g ref="char:EOLhyphen"/>proved, and brought to this Flouriſhing State and Condition they are now found in; as is manifeſt by thoſe Nations which have <hi>Money,</hi> and are Furniſh'd with <hi>Silver</hi> and <hi>Gold</hi> to Buy and Sell with; their Ways of Living, in all Conditions, far ſurpaſſing the Circumſtances of ſuch Countries as are without; therefore all muſt grant, Where there is but little <hi>Silver</hi> and <hi>Gold,</hi> there cannot be much <hi>Trade,</hi> and ſo, by Conſequence, thoſe People live, as it were, in a <hi>State of Nature,</hi> miſerably Poor, and full of Want. Experience hath prov'd this of late Years in <hi>Ireland;</hi> and every County of ENGLAND that hath but little Money in it, verifies and daily confirms the ſame. So that to incourage the <hi>Importation,</hi> or bring<g ref="char:EOLhyphen"/>ing in of <hi>Silver</hi> and <hi>Gold</hi> into any Nation, if it be Coyned, is the greateſt Increaſe and Advantage that can be given to the <hi>Trade</hi> thereof. From whence it follows, If the <hi>Import<g ref="char:EOLhyphen"/>ing Silver</hi> and <hi>Gold,</hi> and the <hi>Coyning of them,</hi> be an <hi>Encreaſe,</hi> and an <hi>Advantage</hi> to the <hi>Nation</hi> and <hi>Trade,</hi> then certainly ſuch <hi>Ways</hi> and <hi>Methods</hi> ought to be taken as are moſt effectual to Keep and Preſerve them when <hi>Coyned,</hi> thereby to Maintain and Uphold that <hi>Trade,</hi> for the <hi>Benefit</hi> and <hi>Advantage</hi> of the <hi>Nation;</hi> for <hi>Silver</hi> and <hi>Gold</hi> are capable of driving <hi>Trades,</hi> and making <hi>profitable Improve<g ref="char:EOLhyphen"/>ments,</hi> that <hi>Houſe</hi> and <hi>Land</hi> cannot perform; the latter being, in Compariſon, a <hi>dead,</hi> and the former a <hi>quick Stock;</hi> either by parts, or in the whole, ready to produce Profits when the Owner hath occaſion to uſe it; he that is provided there<g ref="char:EOLhyphen"/>with, hath always a ready Friend, and a conſtant Servant, that doth not only obey, but fulfill his Command with the leaſt Trouble, — which cannot be ſaid of him that hath only <hi>Houſe</hi> and <hi>Land,</hi> where there muſt be <hi>Conveyances, Mortgages,</hi> or other Securities, before his Wants can be ſerved; ſo that <hi>Silver</hi> and <hi>Gold</hi> being preferable to <hi>Houſe</hi> and <hi>Land,</hi> and the only <hi>Inſtruments</hi> that have Increas'd and Improv'd <hi>Trade;
+<pb n="16" facs="tcp:39300:9"/>It is abſolutely neceſſary that all Endeavours be uſed to preſerve them, eſpecially in theſe times, when they are in demand by ſo many high Bidders abroad,</hi> who have found, by long Expe<g ref="char:EOLhyphen"/>rience, where there is no <hi>Silver</hi> nor <hi>Gold,</hi> there is little or no <hi>Trade;</hi> and where the <hi>Silver</hi> and <hi>Gold</hi> are, there the <hi>Trade</hi> muſt and will be.</p>
+            <p>Therefore, 'tis hop'd and believ'd, You will uſe all the Endeavours You can, That <hi>Guinneas</hi> may be Eſtabliſh'd at <hi>Thirty Shillings,</hi> during His Majeſty's Pleaſure, which, 'tis hop'd, He will Grant, ſo long as the <hi>Wars</hi> continue, con<g ref="char:EOLhyphen"/>ſidering the <hi>Circumſtances</hi> of the People, and what <hi>Taxes</hi> they muſt Pay for the Support of the <hi>Government:</hi> And that ſuch Rates and Prices may be ſet on the <hi>Money,</hi> when New Coyned, as will conduce to Keep and Preſerve it in the <hi>Kingdom.</hi> In Order to which, I will deliver my Thoughts and Apprehenſions concerning ſuch <hi>Methods</hi> as may be proper to take for <hi>Alteration of the preſent Money,</hi> and the <hi>Value</hi> that is neceſſary to be ſet upon it, when New Coyned; which <hi>Methods</hi> will not only conduce to the Keeping it in the <hi>Nation,</hi> but will alſo make the People eaſie, who, in this Juncture, are under great <hi>Taxes</hi> and <hi>Impo<g ref="char:EOLhyphen"/>ſitions,</hi> and muſt be further charged for the <hi>Support</hi> of the WARS: For You cannot imagin, but in this pre<g ref="char:EOLhyphen"/>carious Circumſtance of the <hi>Coyn,</hi> the Damage that may fall by the Loſs of <hi>Guinneas,</hi> if not Eſtabliſh'd at a certain Price for ſome time; with the great Loſs that will certainly accrue by the <hi>Clipt</hi> and <hi>Counterfeit Money,</hi> being all added to the Charge of the preſent <hi>Taxes,</hi> and ſuch other <hi>Impoſitions</hi> that are to be further raiſed for Carrying on the WARS: I ſay, if You conſider all theſe together, and examin from whence the <hi>Money</hi> muſt riſe to make them good, You will find the Burthen too heavy for the People to bear, eſpecially at this time, when the <hi>Money</hi> is called in, who, if not made eaſie by Yours and His Majeſty's Gracious Favour, in the Price
+<pb n="17" facs="tcp:39300:9"/>of <hi>Guinneas,</hi> and the Value of the <hi>Coyn,</hi> may occaſion an univerſal Murmur and Diſcontent amongſt Multitudes of His Subjects, if it miſs breaking out into Diſorders, which may give the <hi>Government</hi> more Diſturbance than all the Enemies thereof dare pretend to, or can poſſibly accompliſh by any pernicious Contrivance: For be pleas'd to conſider, When the Money is called in, there will be Abundance of People that can ſcarcely have Credit till the Money comes forth again; who being without Money, and void of Credit, will find their Conditions and Reputations ſo Alter'd and Chang'd, that 'twill be difficult for many to Live, which may make ſome grow deſperate, eſpecially if they ſuffer Loſs by the <hi>Guinneas,</hi> and Damage by the <hi>Clipp'd Money</hi> at one and the ſame time. I therefore moſt humbly move, That You may proceed by ſuch Methods as ſeem Rational, to make the People eaſie at preſent; which Methods, or ſome others to the ſame Effect, if not taken, and made uſe of, there are many of You will be great Sufferers in this Concern:</p>
+            <div type="proposition">
+               <p>Therefore, in all Humility, most Humbly I Propoſe,</p>
+               <p>
+                  <hi>Firſt,</hi> That His Majeſty be Petitioned to Iſſue His <hi>Royal Proclamation,</hi> giving Notice to all His Subjects in His Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi>
+               </p>
+               <q>
+                  <p>
+                     <hi>THAT after the Firſt Day of  <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>  next En<g ref="char:EOLhyphen"/>ſuing, there ſhall no Clipp'd nor Vnclipp'd Money, nor any other of the preſent Silver Coyn of this Kingdom, paſs in Payment in any Part of <hi>England, Wales,</hi> or <hi>Berwick</hi> upon <hi>Tweed,</hi> above the Denomination of Two Pence, upon the Penalty of being Seiz'd, and Forfeited to him or her that ſhall diſcover it, who may take out a Warrant, and carry the Offender before ſome Iuſtice of the Peace, and he ſhall determin it upon Hearing, having ſufficient Oath made thereof.</hi>
+                  </p>
+               </q>
+               <pb n="18" facs="tcp:39300:10"/>
+               <p>
+                  <hi>Secondly,</hi> That the ſame <hi>Proclamation</hi> may Eſtabliſh <hi>Guinneas</hi> at <hi>Thirty Shillings</hi> that are full Weight, during His Majeſty's Pleaſure; and ſuch <hi>Guinneas</hi> as are not Weight, to paſs pro<g ref="char:EOLhyphen"/>portionably to what they Weigh: And if any offers to Pay them at more than <hi>Thirty Shillings,</hi> to be forfeited to the Informer, by carrying the Offender before ſome <hi>Juſtice of the Peace,</hi> and proving it by Two Good and Subſtantial Witneſſes: And that all the preſent Species of <hi>Gold Coyn</hi> paſs in their Proportion they hold to <hi>Guinneas</hi> of full Weight. This is One of the <hi>Acts of Favour,</hi> You are deſired to Petition His Majeſty for, and 'tis hop'd, He and You will diſpenſe therewith, which will make the People more Cheerful in Paying their <hi>Taxes,</hi> and be of great Advantage to all <hi>Trade</hi> in the <hi>City,</hi> but eſpecially in the <hi>Countrey,</hi> when the <hi>Money</hi> is brought in to be New Coyned: This will be a great help to make all <hi>Payments</hi> and <hi>Receipts</hi> eaſie and expeditious, and will totally prevent and take away thoſe Scruples People are now poſſeſs'd with in Paying and Receiving them.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the ſame <hi>Proclamation</hi> give Notice to all <hi>Sheriffs, Juſtices of the Peace, Mayors of Cities,</hi> and <hi>County Towns,</hi> That they, and every of them, obſerve and perform ſuch <hi>Orders</hi> and <hi>Directions</hi> concerning <hi>Plate, Clipp'd</hi> and <hi>Vnclipp'd Money,</hi> in each and every of their reſpective <hi>Counties,</hi> and the particular <hi>Pariſhes</hi> thereof, as ſhall be further ſet out by <hi>Act of Parliament;</hi> and that they meet and conſult about this Affair in Twenty Days Time next after the Publiſhing of the ſaid <hi>Act.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> That the ſaid <hi>Act of Parliament</hi> direct, That an <hi>Office</hi> or <hi>Offices</hi> ſhall be ſet up in, or near, every <hi>City,</hi> or <hi>County Town,</hi> of <hi>England</hi> and <hi>Wales,</hi> with one in <hi>Berwick</hi> upon <hi>Tweed,</hi> which <hi>Office</hi> or <hi>Offices</hi> ſhall be ſet up, where, and in what Place or Places, the <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace,</hi> find moſt convenient and fit for this
+<pb n="19" facs="tcp:39300:10"/>Buſineſs, and the Eaſe of themſelves and the People; And that the ſaid <hi>Office</hi> or <hi>Offices</hi> ſhall be ſet up and attended by them, or their <hi>Deputies,</hi> to take in and receive all <hi>Clipp'd</hi> and <hi>Vnclipp'd Money,</hi> and all ſuch <hi>Plate</hi> as ſhall be brought thither in order to be <hi>New Coyned;</hi> To which <hi>Offices,</hi> all <hi>Clipp'd</hi> and <hi>Vnclipp'd Money</hi> ſhall be brought, which ſhall there be Told, Weighed, Numbred, Marked, and Sealed up by its ſelf, if it be Twenty Four Pounds Weight or upwards, with the Owner's Name ſet on it, and the <hi>County</hi> and <hi>Pariſh</hi> where he or ſhe Lives; which ſhall be done by the <hi>Sheriffs, Mayors, Juſtices of the Peace,</hi> or their <hi>Deputies,</hi> whilſt the Owner, or Perſon that brings it, is preſent: And the ſaid <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace,</hi> ſhall be anſwerable for it, and for all <hi>Plate</hi> that ſhall be brought thither; and ſhall make good the Loſſes, if any ſhall happen, by Fraud or Miſtake, whilſt it is in their Office or Cuſtody.</p>
+               <p>
+                  <hi>Fifthly,</hi> That the <hi>Sheriff,</hi> or his <hi>Deputy,</hi> ſhall give a Note to each particular Perſon of the Value, Weight, Mark, and Number of their Money, at the Time it is brought into the <hi>Office,</hi> as is afore-ſaid, upon ſuch Stamp'd and Marbled Paper as ſhall be provided for that Purpoſe, which Note ſhall be Signed firſt by the <hi>Sheriff,</hi> and Witneſſed by one or more of the other <hi>Principals,</hi> and Four of their <hi>Deputies;</hi> which Four <hi>Deputies</hi> ſhall be ſufficient to attend one <hi>Office</hi> in any <hi>Market,</hi> or <hi>Pariſh-Town:</hi> All which ſhall be done at the Coſt and Charges of each <hi>County,</hi> and the <hi>particular Pariſhes</hi> thereof, for the Allowances that ſhall be Paid the <hi>Sheriffs, Mayors, Juſtices of the Peace,</hi> or their <hi>Deputies,</hi> out of the New Coyn'd Money hereafter mentioned, when it is returned from the <hi>Tower;</hi> which Note ſo given the People, ſhall be to this Effect following.</p>
+               <pb n="20" facs="tcp:39300:11"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="receipt">
+                           <opener>
+                              <dateline>Derb. <hi>ſſ.</hi>
+                              </dateline>
+                           </opener>
+                           <p>I <hi>T. B.</hi> Sheriff of the County of <hi>Derby,</hi> do hereby Own and Acknowledge, I have Received of Mr. <hi>C. D.</hi> of <hi>Mid<g ref="char:EOLhyphen"/>dleton,</hi> in the Pariſh of <hi>Workſworth,</hi> and County afore<g ref="char:EOLhyphen"/>ſaid, One Hundred Pounds, Eighteen Shillings and Six Pence in Money, Weighing Twenty Four Pounds, Eleven Ounces, Sixteen Penny Weights, and Twenty Grains, <hi>Numbred 22,</hi> and Marked <hi>A.</hi> for which I promiſe to be accountable to the ſaid <hi>C. D.</hi> his Executors, Adminiſtrators, or Aſſigns, for the like Weight in New Coyned Money, if the ſaid Caſh proves to be equal to Standard Silver, when aſſayed at the Tower by the Maſters of the Mint, but if they Return it better or worſe than Standard Silver, then to Pay him the ſaid <hi>C. D.</hi> his Executors, Admini<g ref="char:EOLhyphen"/>ſtrators, or Aſſigns, all they return back to me, whe<g ref="char:EOLhyphen"/>ther it be a greater or leſſer Weight in New Coyned Money than the Caſh above-mentioned is; which Payment ſhall be well and truly made in Twenty Days next after it is brought back from the Tower of <hi>London</hi> to the County Office, only abating the Allowance Granted by Act of Parliament.</p>
+                           <closer>
+                              <dateline>Witneſs my Hand <date>this  <gap reason="blank" extent="1 word">
+                                       <desc> _____ </desc>
+                                    </gap>  Day of  <gap reason="blank" extent="1 word">
+                                       <desc> _____ </desc>
+                                    </gap>  1696.</date>
+                              </dateline>
+                              <signed>Teſt.
+<list>
+                                    <item>W. S. <hi>mayor</hi>
+                                    </item>
+                                    <item>E. M.</item>
+                                    <item>F. G.</item>
+                                    <item>H. P.</item>
+                                    <item>P. H.</item>
+                                    <item>T. B.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="21" facs="tcp:39300:11"/>
+               <p>
+                  <hi>Sixthly,</hi> That the ſaid <hi>Act of Parliament</hi> do, in like manner, give Notice, That all ſuch as ſhall voluntarily bring or ſend any <hi>Old</hi> or <hi>New Plate</hi> to theſe <hi>Offices,</hi> in Order to be ſent to the <hi>Tower</hi> of <hi>London,</hi> to be Coyned; if the <hi>Plate</hi> ſo brought thither be finer or courſer than <hi>Standard Silver</hi> is, then they to re<g ref="char:EOLhyphen"/>ceive a greater or leſſer Weight in <hi>New Money</hi> for it than the Weight of the Plate was, according as it ſhall be found finer or courſer than <hi>Standard Silver</hi> by the Aſſay-Maſters of the <hi>Mint;</hi> for which <hi>Plate,</hi> when delivered into the <hi>Office,</hi> a Note ſhall be given to the Owner, or to the Perſon that brings it, for the Owners Uſe, which ſhall be Signed by the <hi>Sheriff,</hi> and Witneſſed by one or more of the other <hi>Principals,</hi> whether <hi>Mayor,</hi> or <hi>Juſtices of the Peace,</hi> and Four of their <hi>Deputies,</hi> as is afore-ſaid. — And if any Perſon or Perſons ſhall deſire it, they may mix their <hi>Money</hi> and <hi>Plate,</hi> and put all in one Parcel, and take a Note for the whole, mentioning both the <hi>Money</hi> and <hi>Plate,</hi> and the Weight thereof.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="receipt">
+                           <opener>
+                              <dateline>Derb. <hi>ſſ.</hi>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>I</hi> A. B. <hi>Sheriff of the County of</hi> Derby, <hi>do hereby Own and Acknowledge I have Received of Mr.</hi> E. F. <hi>of</hi> Crumford, <hi>in the Pariſh of</hi> Workſworth, <hi>and County afore-ſaid, Two Hundred Twenty Five Pounds, Twelve Shillings and Six Pence in Money, Weigh<g ref="char:EOLhyphen"/>ing Forty Four Pounds, Eight Ounces, Ten Penny Weights, and fourteen Grains, together with one Parcel of Plate, conſiſting of Eight Porringers, Six Tan<g ref="char:EOLhyphen"/>kards, Ten Spoons, One Candleſtick, and a pair of Snuffers, containing and weighing Twenty Two Pounds, Six Ounces, and Four Penny Weights, which Money and Plate being put all together, and Sealed up, is</hi> Numbred 23, <hi>and Marked</hi> B; <hi>for which I promiſe to be accountable to the ſaid</hi> E. F. <hi>his Ex<g ref="char:EOLhyphen"/>ecutors, Adminiſtrators, or Aſſigns, for the like Weight
+<pb n="22" facs="tcp:39300:12"/>in New Coyn'd Money, if the ſaid Caſh and Plate prove to be equal to Standard Silver, when aſſay'd at the Tower by the Maſters of the</hi> Mint; <hi>but if they Return it better or worſe than Standard Silver, then to Pay him the ſaid</hi> E. F. <hi>his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors, or Aſſigns, all they Return back to me, whether it be a greater or leſſer Weight, in New Coyn'd Mo<g ref="char:EOLhyphen"/>ney, than the Caſh and Plate above-mentioned are; which Payment ſhall be well and truly made in Twenty Days next after it is brought back from the Tower of</hi> London, <hi>to the County Office, only abating the allowance Granted by Act of Parliament.</hi>
+                           </p>
+                           <closer>
+                              <dateline>Witneſs my Hand <date>this  <gap reason="blank" extent="1 word">
+                                       <desc> _____ </desc>
+                                    </gap>  Day of  <gap reason="blank" extent="1 word">
+                                       <desc> _____ </desc>
+                                    </gap>  1696.</date>
+                              </dateline>
+                              <signed>Teſt.
+<list>
+                                    <item>E. W. <hi>Juſtice of the Peace.</hi>
+                                    </item>
+                                    <item>W. M. <hi>Mayor.</hi>
+                                    </item>
+                                    <item>M. H.</item>
+                                    <item>P. M.</item>
+                                    <item>C. D.</item>
+                                    <item>R. A.</item>
+                                    <item>A. B.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>
+                                 <table>
+                                    <row>
+                                       <cell role="label"> </cell>
+                                       <cell role="label">
+                                          <abbr>lb.</abbr>
+                                       </cell>
+                                       <cell role="label">℥.</cell>
+                                       <cell role="label">pw.</cell>
+                                       <cell role="label">gr.</cell>
+                                    </row>
+                                    <row>
+                                       <cell role="label">Weight of the Money above</cell>
+                                       <cell>44</cell>
+                                       <cell>08</cell>
+                                       <cell>10</cell>
+                                       <cell>14</cell>
+                                    </row>
+                                    <row>
+                                       <cell role="label">Weight of the Plate above</cell>
+                                       <cell>22</cell>
+                                       <cell>06</cell>
+                                       <cell>04</cell>
+                                       <cell>00</cell>
+                                    </row>
+                                    <row>
+                                       <cell role="total">Weighing in all</cell>
+                                       <cell role="total">67</cell>
+                                       <cell role="total">02</cell>
+                                       <cell role="total">14</cell>
+                                       <cell role="total">14</cell>
+                                    </row>
+                                 </table>
+                              </p>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>That for the Eaſe and Conveniency of the People, the <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace,</hi> ſhall cauſe a Liſt of all the Pariſhes in the County to be drawn, which ſhall be ſet upon the Croſs in every Market-Town of the ſaid County, which Liſt ſhall be Read, (by the <hi>Publick Cnyer</hi>) giving Notice to the People when their <hi>Deputies</hi> ſhall come to the Market-Towns; and alſo to ſuch as are Pariſh-Towns, where
+<pb n="23" facs="tcp:39300:12"/>no Markets are kept, to take in and receive the Account and Weights of their <hi>Money,</hi> where they ſhall receive all Sums, being Twenty <hi>Shillings,</hi> or upwards, but no Sum under Twenty <hi>Shillings,</hi> ſuch being fit for one Friend to intruſt with another; where having firſt told, then weighed, and entred them in the Regiſter for that Pariſh, with the Owner's Name, and his or her Place of abode; they may then mix all together, till the ſeveral Parcels will make up One Hundred Pounds; but ſhall not exceed Two Hundred Pounds: And that no Parcel of <hi>Money,</hi> or <hi>Plate,</hi> ſhall be admitted to be ſent to the <hi>Tower,</hi> ſeparate or mixt, that is not Twenty Four Pounds Weight, but where it falls to be the concluding Parcel in a Pariſh; which ſhall be done to ſave the Labour of making too many Aſſays in the <hi>Tower,</hi> which would be an endleſs and troubleſome thing, if every Five Pound or Ten Pound Parcel ſhould be Aſſay'd: Therefore, amongſt theſe ſmall Sums, he that hath the greateſt ſhall have a Note of the whole, from which every Man may take a Copy that pleaſeth; and the <hi>Deputy</hi> ſhall leave a Copy with the <hi>Parſon</hi> of the Pariſh, entered into a Book, to be left there; and ſend ano<g ref="char:EOLhyphen"/>ther Book to the next <hi>Juſtice of the Peace,</hi> having firſt entred all things fairly down in the Regiſter he keeps for that Pariſh, in this Manner following; to which, <hi>Parſon,</hi> or <hi>Juſtice of the Peace,</hi> if any ſhall loſe or miſ-lay their Accounts, they may have recourſe for another.</p>
+               <pb n="24" facs="tcp:39300:13"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="record">
+                           <opener>
+                              <dateline>
+                                 <date>
+                                    <hi>April</hi> the 24th, 1696.</date>
+                              </dateline>
+                           </opener>
+                           <p>AT <hi>Workſworth</hi> Town, for the Pariſh of <hi>Workſworth,</hi> taken and received theſe Sums of Money of the ſeveral Perſons herein mentioned, weighing as followeth:</p>
+                           <p>
+                              <table>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="label">
+                                       <abbr>
+                                          <hi>l.</hi>
+                                       </abbr>
+                                    </cell>
+                                    <cell role="label">
+                                       <abbr>
+                                          <hi>s.</hi>
+                                       </abbr>
+                                    </cell>
+                                    <cell role="label">
+                                       <abbr>
+                                          <hi>d.</hi>
+                                       </abbr>
+                                    </cell>
+                                    <cell role="label">
+                                       <abbr>lb.</abbr>
+                                    </cell>
+                                    <cell role="label">℥.</cell>
+                                    <cell role="label">pw.</cell>
+                                    <cell role="label">gr.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Received of <hi>John Adams</hi> Senior, of the Town of <hi>Workſworth,</hi>
+                                    </cell>
+                                    <cell>05</cell>
+                                    <cell>12</cell>
+                                    <cell>06.</cell>
+                                    <cell>01</cell>
+                                    <cell>09</cell>
+                                    <cell>12</cell>
+                                    <cell>16.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Received of <hi>James Wright,</hi> Sen. of <hi>Aſhlyhay,</hi>
+                                    </cell>
+                                    <cell>10</cell>
+                                    <cell>16</cell>
+                                    <cell>04.</cell>
+                                    <cell>02</cell>
+                                    <cell>10</cell>
+                                    <cell>14</cell>
+                                    <cell>12.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Received of <hi>Henry Wylde</hi> of <hi>Hopton,</hi>
+                                    </cell>
+                                    <cell>20</cell>
+                                    <cell>08</cell>
+                                    <cell>06.</cell>
+                                    <cell>04</cell>
+                                    <cell>00</cell>
+                                    <cell>12</cell>
+                                    <cell>04.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Received of <hi>Robert Marchant</hi> of <hi>Gaurſey-Banck,</hi>
+                                    </cell>
+                                    <cell>30</cell>
+                                    <cell>12</cell>
+                                    <cell>00.</cell>
+                                    <cell>07</cell>
+                                    <cell>02</cell>
+                                    <cell>16</cell>
+                                    <cell>18.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Received of <hi>Anthony Wood</hi> of <hi>Cawlow,</hi>
+                                    </cell>
+                                    <cell>45</cell>
+                                    <cell>14</cell>
+                                    <cell>06.</cell>
+                                    <cell>12</cell>
+                                    <cell>04</cell>
+                                    <cell>10</cell>
+                                    <cell>12.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>No 24. and Marked <hi>C.</hi>
+                                    </cell>
+                                    <cell role="total" cols="3">
+                                       <hi>Sum.</hi>
+                                    </cell>
+                                    <cell role="total" cols="4">
+                                       <hi>Weight.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">113</cell>
+                                    <cell role="total">03</cell>
+                                    <cell role="total">10</cell>
+                                    <cell role="total">28</cell>
+                                    <cell role="total">04</cell>
+                                    <cell role="total">06</cell>
+                                    <cell role="total">14.</cell>
+                                 </row>
+                              </table>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The like to be done for any bigger or leſſer <hi>Sum of Money;</hi> and if there be <hi>Plate,</hi> then to incert only the Weight, Num<g ref="char:EOLhyphen"/>ber and Mark of it.</p>
+               <p>
+                  <hi>Eighthly,</hi> That as ſoon as the <hi>Money</hi> and <hi>Plate</hi> are brought to the <hi>County Offices,</hi> the <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace,</hi> ſhall meet, of which there ſhall be at leaſt Four of the <hi>Principals,</hi> beſides the <hi>Sheriff,</hi> and Four of their <hi>Deputies</hi> preſent, to ſee and examin the Value, Weight, Number, and Mark of each Perſon's <hi>Money</hi> and <hi>Plate,</hi> and that their Names be annexed to it in a piece of Parchment, which ſhall be com<g ref="char:EOLhyphen"/>pared
+<pb n="25" facs="tcp:39300:13"/>with the Regiſter there kept and taken, and if they agree, they ſhall then cauſe the <hi>Money</hi> and <hi>Plate</hi> of every particular Pariſh to be pack'd up by it ſelf, though in ſeveral Parcels; ſo that the <hi>Money</hi> and <hi>Plate</hi> of one Pariſh ſhall not be mix'd in the ſame Bag or Cheſt looſe with that of another; and there ſhall be put into the Bag or Cheſt Two Pieces of Parchment, upon which ſhall be Writ,</p>
+               <q>
+                  <hi>The Money and Plate belonging to the Pariſh of</hi> Workſworth, <hi>in the County of</hi> Derby.</q>
+               <p>And another of theſe Parchment-Labels ſhall be faſtened to the outſide of the Cheſt or Bag.</p>
+               <p>
+                  <hi>Ninthly,</hi> That all the <hi>Officers</hi> or <hi>Deputies</hi> imploy'd in Receiving <hi>Money</hi> and <hi>Plate,</hi> and all ſuch that are any ways concerned in Carrying them to and from the <hi>Tower,</hi> ſhall give Bond to the <hi>Sheriff,</hi> That they, nor none of them, ſhall or will break the Seal or Seals, or open the Parcel or Parcels of any Perſon's <hi>Money</hi> or <hi>Plate</hi> after it is Sealed up: And that they will not take out, change, nor ſuffer to be taken out or changed, any of the ſaid <hi>Money</hi> or <hi>Plate,</hi> more or leſs, upon Pain of Forfeiting for every <hi>Six-Pence, Shilling, Half-Crown</hi> or <hi>Crown,</hi> they ſhall ſo take out, change, or ſuffer to be — taken out and changed, the Sum of One Hundred Pounds; one half to be Pay'd to the <hi>King,</hi> and the other half to the <hi>Diſcoverer:</hi> For the true Performance of which, each, or every of them, ſhall take an OATH before ſome <hi>Maſter of Chancery,</hi> or <hi>Juſtice of the Peace,</hi> deputed on purpoſe, where ſuch <hi>Maſters of Chancery</hi> ſhall be wanting; which ſhall be to this Effect following.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <p>I <hi>W. S.</hi>  of the Pariſh of <hi>Workſworth,</hi>  and County of <hi>Derby,</hi>  do Swear I will Truly and Faithfully do and execute the Charge and Truſt committed to me, concerning the Money and Plate of this County;
+<pb n="26" facs="tcp:39300:14"/>and that I will not wilfully break the Seal or Seals, open, alter, or change the Money or Plate of any Perſon or Perſons, after it is Sealed up; nor will ſuffer any Alteration or Change to be made or done by any others, after or before; nor will wilfully receive, or ſuffer to be received, any Braſs or Iron Money, that doth not appear to be four parts in five Silver, to be mired amongſt any Perſon's Money or Plate; nor will I hold any Correſpondence, or have any Dealing with the Buyers of Braſs and Broken Money; nor will I wilfully refuſe the Receiving of that which ſhall appear to be Silver, to the beſt of my Knowledge. <hi>So help me God.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <hi>Tenthly,</hi> That the <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace</hi> in every County, ſhall and may conſider and take thoſe Ways which they ſhall think or find moſt convenient for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſe of themſelves and the People; and if they find it con<g ref="char:EOLhyphen"/>venient to ſend the <hi>Money</hi> of one Pariſh up to be New Coyned, whilſt the <hi>Money</hi> in another Pariſh is Collecting, That it ſhall, and may be Lawful to do ſo, till they have gone through all the Pariſhes in the County; by which means, as the <hi>Money</hi> of one Pariſh comes up to the <hi>Tower,</hi> the Money of another Pariſh may go down to the <hi>Countrey,</hi> whereby the Peoples Neceſſities may be the better fitted, than if they ſhould be without <hi>Money</hi> amongſt them till all the <hi>Money</hi> in the County be Coyned: And the <hi>Deputies</hi> ſhall endeavour to make their Parcels of <hi>Money</hi> and <hi>Plate</hi> as large as they can, thereby to prevent the Multitude of Eſſays in the <hi>Tower;</hi> of which Parcels, there ſhall be none under Twenty Four Pounds Weight, except it be the laſt concluding Parcel in a Pariſh, as is before-ſaid: And that the Loſs of all <hi>Counterfeit Money</hi> remain where it falls, or upon them in whoſe Hands it is.</p>
+               <pb n="27" facs="tcp:39300:14"/>
+               <p>
+                  <hi>Eleventhly,</hi> That the <hi>Office</hi> for Taking and Receiving the <hi>Money</hi> and <hi>Plate</hi> within the City of <hi>London,</hi> and <hi>Bills of Mortality,</hi> be kept at <hi>Guild-Hall,</hi> in the ſaid City; And that the <hi>Mayor, Sheriffs,</hi> and <hi>Juſtices of the Peace,</hi> belonging to the ſaid City, or their <hi>Deputies,</hi> ſhall give their Attendance there in Fourteen Days next after the <hi>Act of Parliament</hi> is Publiſh'd; and ſhall provide <hi>Books, Bags, Weights</hi> and <hi>Scales, Printed Notes,</hi> and all other things that ſhall or may relate to this Affair, for the well-Ordering and Diſpatching this Buſineſs, and ſhall keep Accounts of all Perſons <hi>Money</hi> and <hi>Plate</hi> that ſhall be brought thither, and undertake the Charge of Carrying and Fetching it to and from the <hi>Tower,</hi> and Delivering it out again to whom it may belong; — for which, the ſaid <hi>Officers</hi> or <hi>Deputies</hi> ſhall deduct, and Pay them<g ref="char:EOLhyphen"/>ſelves out of every Perſon's <hi>Money</hi> and <hi>Plate,</hi> when New Coyned, at the Time they deliver it them forth, One <hi>Shilling</hi> to be ſtop'd out of every Hundred Pounds, which ſhall be all the Charge the Inhabitants of the City of <hi>London,</hi> and ſuch as Live within the <hi>Bills of Mortality,</hi> ſhall be at in and about the ſame; and for a greater or leſſer Sum than One Hundred Pounds, more or leſs, according to that in Proportion; which <hi>Twelve Pence</hi> for One Hundred Pounds, if a Million of Money be Coyned out of the <hi>Clipp'd</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nclipp'd Money</hi> and <hi>Plate</hi> in that compaſs, will come to Five Hundred Pounds, which will be ſufficient to Defray the Charge of Attendance in this Affair, which cannot be above Three Months in doing; and if there be Eight or Ten <hi>Deputies</hi> or <hi>Officers</hi> imploy'd about it, Fifty Pounds a Man for Three Months is very good Pay.</p>
+               <p>
+                  <hi>Twelfthly,</hi> That the Allowance or Satisfaction that ſhall be made to other <hi>Officers</hi> and <hi>Deputies</hi> belonging to the <hi>Sheriffs, Mayors,</hi> and <hi>Juſtices of the Peace</hi> in all other Places, ought to be Rated proportionably to what <hi>Money</hi> there may be judg'd to be in the County, and to the Scituation or Di<g ref="char:EOLhyphen"/>ſtance
+<pb n="28" facs="tcp:39300:15"/>the Counties lie from <hi>London;</hi> for which, I Humbly Propoſe as followeth:</p>
+               <p>For <hi>Middleſex, Surry, Suſſex, Kent, Suffolk, Eſſex, Hartford-Shire, Berk-Shire, Hamp-Shire, Buckingham-Shire, Oxford-Shire, Bedford-Shire, Northampton-Shire, Huntington-Shire,</hi> and <hi>Cambridge-Shire,</hi> Two Shillings <hi>out of every</hi> Hundred Pounds <hi>of</hi> New Coyned Money.</p>
+               <p>For the Counties of <hi>Norfolk, Rutland, Lincoln, Nottingham, Derby, Stafford, Leiceſter, Worceſter, Warwick, Glouceſter, Wilt-Shire, Dorſet</hi> and <hi>Somerſet-Shire,</hi> Two Shillings and Six Pence out of every Hundred Pounds.</p>
+               <p>And that all other Counties of <hi>England</hi> and <hi>Wales</hi> may have <hi>Three Shillings per Cent.</hi> in Regard of their Diſtance.</p>
+               <p>Alſo, That the <hi>Eſſay-Maſter</hi> in the <hi>Tower,</hi> ſhall make ſuch further Proviſion, for the quick and ſpeedy Diſpatch of the Eſſays that are to be made for each County, as ſhall be found ſufficient to diſcharge Two Counties every Month, after the Eſſays for the City of <hi>London</hi> are finiſhed: And that no <hi>Refiner</hi> in the City of <hi>London</hi> be admitted to Buy any <hi>Old Plate,</hi> during the Time of this <hi>Coynage,</hi> without Carrying it to the Office in <hi>Guild-Hall,</hi> in Order to be <hi>Coyned;</hi> but that ſuch <hi>Refiners</hi> may be imployed at the <hi>County-Mints</hi> here<g ref="char:EOLhyphen"/>after mentioned.</p>
+               <p>
+                  <hi>Thirteenthly,</hi> Having thus preſcribed a <hi>Feaſible</hi> and <hi>Quick Way</hi> for Bringing the <hi>Money</hi> and <hi>Plate</hi> to the <hi>Tower,</hi> in Order to a <hi>New Coynage;</hi> It is neceſſary now to mention what <hi>Price</hi> it ought to be Valued at, ſo as to preſerve it from being <hi>Melted down,</hi> and <hi>Shipped off,</hi> as it hath been, under the Pretence of <hi>Foreign Bullion,</hi> — It is alſo convenient to conſider, How You may prevent the <hi>Conſumption</hi> that is
+<pb n="29" facs="tcp:39300:15"/>made of it in ENGLAND, by the Working <hi>Silver-Smiths,</hi> who daily turn it into various Sorts of <hi>Plate:</hi> For unleſs You take ſuch <hi>Methods</hi> as will remedy or prevent theſe <hi>Two Things, The Calling in of the Money to be New Coyned</hi> will abſolutely be Deſtructive to the <hi>Nation;</hi> and it had better be let alone as it now is, than to meddle with it, if You do not all You can to prevent them. <hi>(viz.)</hi>
+               </p>
+               <p>The Firſt is, <hi>The Converting it into Plate for In-land Vſe.</hi>
+               </p>
+               <p>The Second is, <hi>The Melting of it down for Foreign Vſe.</hi>
+               </p>
+               <p>Therefore, If You take ſuch <hi>Methods</hi> as will conduce to annihilate theſe <hi>Two Deſtructive Things,</hi> Your Selves, and the People of this Nation, will find the Benefit thereof; which is in Vain for them to expect, or You to believe, till They are remov'd.</p>
+               <p>So that to prevent the <hi>Silver-Smiths</hi> from turning the <hi>New Coyn'd Money</hi> into <hi>Plate,</hi> it is neceſſary, for the future, That all kinds of <hi>Plain Plate;</hi> as <hi>Tankards, Spoons, Forks, Porringers, Diſhes, Plates, Candleſticks,</hi> and all other ſorts of <hi>Bulky Plate,</hi> be not admitted to be Sold when they are Wrought up, for any more than <hi>Weight</hi> for <hi>Weight</hi> in <hi>New Money,</hi> allowing <hi>Two Pence</hi> an Ounce over and above the Weight of the <hi>Money,</hi> for the Faſhion, as they call it, in regard, their <hi>Solder</hi> and <hi>Allay</hi> that is put in ſome of them Pays for moſt of the Workmanſhip; and this they may very well do, eſpecially if You pleaſe to ſettle the Price of <hi>Bullion,</hi> as it is mentioned in the latter part of this Paragraph: For whilſt the Circumſtances of <hi>Silver Coyn</hi> and <hi>Plate</hi> remain thus, That an Ounce of <hi>Plate</hi> may be Sold for <hi>Seven Shillings,</hi> under a Pretence there is <hi>Six Pence</hi>
+                  <pb n="30" facs="tcp:39300:16"/>an Ounce of it for the Faſhion: What <hi>Silver-Smith</hi> can You believe there is, that will not give <hi>Six Shillings</hi> and <hi>Six Pence</hi> an Ounce for <hi>New Money?</hi> when, at One Hundred Ounces, there is <hi>Fifty Shillings</hi> got by Melting it down, and Working it up, beſides the Advantage of the <hi>Solder</hi> and the <hi>Allay,</hi> where and when they can conveniently place it; which many of them daily practice, and cannot be prevented from doing it.</p>
+               <p>Therefore, whilſt the <hi>Plate</hi> carrieth a higher Price than the <hi>New Coyn'd Money,</hi> You may conclude the <hi>Money</hi> will be <hi>melted down,</hi> and turn'd into <hi>Plate,</hi> as the <hi>Silver-Smiths</hi> have occaſion to uſe it:</p>
+               <p>For, if You pleaſe to conſider the Nature of the Thing, What Reaſon is there to be given why a Pound of <hi>Plate</hi> in a Man's Houſe ſhould coſt more, or be of greater Value, than a Pound Weight of <hi>New Money?</hi> when the latter will always be more ready to ſupply a Man's Wants, whilſt he hath a Grain of it, than the former; and the <hi>Money</hi> hath Workmanſhip beſtow'd on it, as well as the <hi>Plate;</hi> which, when any hath occaſion to part with, muſt Sell to Loſs; beſides, the <hi>Money</hi> is generally finer and better <hi>Silver,</hi> and therefore deſerves to bear a better Price: From hence it appears, whilſt You ſuffer <hi>Plate</hi> to bear a higher Price than the <hi>New Coyned Money,</hi> it is, and will be Deſtructive to the <hi>Coyn of the Kingdom;</hi> which all People hope and believe You will do all You can to prevent; and more-eſpe<g ref="char:EOLhyphen"/>cially, ſince His Majeſty hath been Graciouſly Pleaſed to Recommend the Care thereof to You in His SPEECH. —</p>
+               <p>
+                  <hi>Fourteenthly,</hi> So that the firſt Step to Prevent the Turning of <hi>New Money</hi> into <hi>Plate,</hi> and to Preſerve it from being <hi>melted down,</hi> and Exported under the Name of <hi>Foreign Bullion,</hi> will be to Enact;</p>
+               <pb n="31" facs="tcp:39300:16"/>
+               <q>THAT all Bullion, or Pieces of Eight, Imported from and after the Firſt Day of next Enſuing, being equal to Standard Silver, and no better, ſhall always be Valued Eight Grains in the Ounce, under the Price the New Money, when Coyned, ſhall be Rated at: And if the Bullion or Dollars Im<g ref="char:EOLhyphen"/>ported be finer than the Standard Silver, or Coyn of this Kingdom, then to be Valued proportionably above the Price of New Money, according as the Fineneſs thereof may deſerve, always allowing Eight Grains for the Difference of Standard Bullion or Dollars, and Standard Coyn; and from thence to compute what the Finer Dollars or Bullion are worth. —</q>
+               <p>For when the <hi>Silver-Smiths</hi> find they can have <hi>Standard Bullion</hi> Eight Grains in an Ounce cheaper than they can have <hi>New Money,</hi> which is Standard, they will work upon <hi>Bullion,</hi> and leave the <hi>Money,</hi> the <hi>Bullion</hi> being cheaper by about <hi>Eleven Shil<g ref="char:EOLhyphen"/>lings,</hi> at <hi>Thirty Two Pounds Ten Shillings,</hi> than the <hi>New Coyned Money</hi> will be, provided You Rate it, when <hi>Coyned,</hi> at the Price hereafter-mentioned; which Price will be abſolutely neceſſary to Fix it at, if You think to Preſerve it from being <hi>melted down,</hi> and ſent to thoſe <hi>Hungry Countries</hi> that ſo much Want and Deſire it; and who and where thoſe are, is before recited.</p>
+               <p>From hence it appears, if what is above-ſaid may be Enacted, The Firſt of theſe Miſchiefs will be totally taken away; that is, <hi>The Turning of New Money into Plate, by the Silver-Smiths, for In-land Uſe.</hi> The Second Miſchief, is, <hi>The Melting of it down for Foreign Uſe;</hi> which being alſo removed or prevented, the <hi>Money</hi> will remain in the <hi>Kingdom,</hi> when <hi>New Coyned,</hi> in its Species, without Alteration: To accompliſh which, it will
+<pb n="32" facs="tcp:39300:17"/>alſo be neceſſary to rate it ſo, that the Price may conduce to Preſerve it from being <hi>Melted down</hi> and <hi>Tranſported,</hi> otherwiſe, it will be better to let it alone, and to remain in the Condition it now is, than to Alter it, if effectual Care be not taken to Keep it when Altered; — ſo that before I mention that <hi>Price</hi> which I judge convenient to ſet upon the <hi>Money,</hi> when <hi>New Coyned,</hi> be pleaſed to conſider.</p>
+               <p>It is unreaſonable for any to think or believe, <hi>That the Eſtates of the Landed Men</hi> in England <hi>and</hi> Wales <hi>ſhould make good the Damage or Loſs of the Moneyed Men,</hi> that will ariſe by the <hi>Clipt</hi> and <hi>Counterfeit Money:</hi> And it will be difficult to find <hi>Ways</hi> and <hi>Means,</hi> or a ſufficient <hi>Fund,</hi> in theſe times, to make good the <hi>Counterfeit</hi> and <hi>Clipt Money,</hi> without affecting (or, as I may ſay, ſqueezing) the <hi>Landed Men</hi> with more than they can poſſibly bear of this Burthen: So that when all Circumſtances are well conſidered, with the <hi>Loſs</hi> and <hi>Damage</hi> the <hi>Nation</hi> muſt ſuſtain by the <hi>Clipt</hi> and <hi>Counterfeit Money,</hi> which being reckoned toge<g ref="char:EOLhyphen"/>ther, cannot be thought leſs than Forty Five Pounds <hi>per Cent.</hi> to ſupply which, if there be Six Millions of <hi>Money</hi> in the Kingdom, there will go Two Millions and Nine Hundred Thouſand Pounds to make them good; which Sum, beſides all the preſent <hi>Cares,</hi> and other <hi>Impoſitions</hi> that muſt be further raiſed for carrying on the <hi>Wars,</hi> is too great a Charge for the People to bear at one and the ſame time, eſpecially when the <hi>Money</hi> is calling in. — So that, in all Humility, I Humbly — Propoſe,</p>
+               <p>That the <hi>Money</hi> may, at preſent, bear the greateſt Part of its own <hi>Damage,</hi> by Raiſing it in the Value, when <hi>New Coyned,</hi> Thirty Pounds <hi>per Cent,</hi> during His Majeſty's Pleaſure, or ſo long as the <hi>Wars</hi> continue, whereby the People will be made eaſie, and freed from moſt of their Damage, at pre<g ref="char:EOLhyphen"/>ſent, by that which is <hi>Clipt</hi> and <hi>Counterfeit;</hi> and the <hi>Money,</hi>
+                  <pb n="33" facs="tcp:39300:17"/>when <hi>New Coyn'd,</hi> will, by this means, in a great Meaſure be prevented from being <hi>Melted down,</hi> and <hi>Sent Abroad;</hi> which certainly will be done, if any leſſer Price be ſet upon it; for, as You have before heard, and as Experience hath plainly prov'd, there are <hi>ſo many high Bidders abroad for it,</hi> that <hi>Six Shillings</hi> and <hi>Six Pence</hi> an Ounce will ſcarcely preſerve it from them: And if the <hi>Wars</hi> continue Two Years longer, I am of Opinion, You will certainly find, they will give <hi>Seven Shillings</hi> an Ounce for it before they will be without it. So that to call the <hi>Money</hi> in, and to ſuffer <hi>Forty Five Pounds per Cent.</hi> Damage by it, and when <hi>New Coyned</hi> to Value it at a leſſer <hi>Price</hi> by <hi>Twenty Pounds per Cent.</hi> than the <hi>Foreigners</hi> now bid for it; who would gladly give <hi>Twenty Pounds per Cent.</hi> above Standard Price to have it; I ſay, to <hi>Value</hi> it thus, is the ready way to ſerve and uphold them, and an infallible way to pull down and impoveriſh our Selves; which the whole Nation believes, You in Your Great Wiſdom, will take Care to prevent. —</p>
+               <p>
+                  <hi>Fifteenthly,</hi> And whereas a <hi>Five Shilling Piece</hi> of the late <hi>Mill'd Money,</hi> weigh'd, or ought to have weigh'd, Four Hun<g ref="char:EOLhyphen"/>dred Sixty Four Grains and an half; yet there is not One in Ten ſcarcely weighs above Four Hundred Sixty Two Grains, which is Nineteen Penny Weight and Six Grains; Therefore I Propoſe, That a Piece of the ſame Weight and Fineneſs may be rated, and paſs at <hi>Six Shillings</hi> and <hi>Six Pence,</hi> which is <hi>Thirty per Cent.</hi> more than it went for before; and that a Piece of the ſame Weight and Fineneſs as the late <hi>New Half-Crown</hi> was, may paſs for <hi>Three Shillings</hi> and <hi>Three Pence;</hi> and the <hi>Shilling</hi> for <hi>Nineteen Pence Half-Penny;</hi> and the <hi>Six-Pence</hi> to contain Forty Five Grains and an half: For without this Advance upon the <hi>Money</hi> when <hi>New Coyn'd,</hi> it will be <hi>Melted down,</hi> and <hi>Shipp'd off,</hi> for the Reaſons afore<g ref="char:EOLhyphen"/>ſaid. — If this Method be taken, then the <hi>Coyn</hi> remains in the Weight and Purity it was in before; and if there ſhould
+<pb n="34" facs="tcp:39300:18"/>happen to be Plenty of <hi>Silver</hi> at any time hereafter, You may then reduce it without Calling it in, or Altering the Form, according as You find we are then ſupply'd with Plenty of <hi>Bullion,</hi> either to the preſent Value, or what You think fit. But if it be Allay'd any thing conſiderably with <hi>Baſe Metal,</hi> then it will be ſubject to be <hi>Counterfeited,</hi> and there may be, to the Value of <hi>Six Pence,</hi> or <hi>Eight Pence,</hi> of <hi>Baſe Metal,</hi> put in a <hi>Crown Piece</hi> more than the <hi>Allay</hi> there ought to be, and will not be diſtinguiſhed, unleſs by ſuch who are well Skill'd in <hi>Money;</hi> which Opportunity the <hi>Counterfeit Coyners</hi> would be glad of, <hi>Eight Pence</hi> in a <hi>Crown Piece</hi> being Encouragement enough to ſet them on <hi>Coyning:</hi> For which Reaſon, I do not approve of <hi>Allaying the Coyn,</hi> or Leſſening the Fineneſs thereof, by any Means. —</p>
+               <p>
+                  <hi>Sixteenthly,</hi>
+
+                  <q>THAT after the Firſt Day of next Enſuing, all Silver Imported, in what Form ſoever it is, whether in Ingots, Dollars, Bars, or Cakes of Bullion, if it be not Coyned here, nor Sold for In-land Uſe, when-ever it is Exported, ought to pay Twenty pounds <hi>per Cent.</hi> Cuſtom, for theſe Reaſons following.</q>
+               </p>
+               <p>He that Imports <hi>Silver,</hi> and doth not <hi>Coyn</hi> it here, doth the Nation no Service by his Importing it, but a great deal of Prejudice: becauſe, if the <hi>Value</hi> of it had been brought Home in any other Goods, they muſt have Paid the <hi>King's Cuſtoms,</hi> and the Goods would have been ſerviceable and uſeful one way or another for the <hi>Engliſh</hi> People, and ſeveral <hi>Trades-Men,</hi> according as the Goods ſhould happen to be, might have had Advantage by them; but being brought over in <hi>Bullion,</hi> and Shipp'd out again, there's not a Penny got, but by the Importer and Exporter; ſo that to ſuffer
+<pb n="35" facs="tcp:39300:18"/>
+                  <hi>Silver</hi> to be Imported and Exported <hi>Cuſtom-free,</hi> is extreamly Deſtructive to the Intereſt and Welfare of the <hi>Nation.</hi>
+               </p>
+               <p>For Example, Suppoſe there was little or no <hi>Cocheneal</hi> in <hi>Holland,</hi> and the <hi>Engliſh Fleet</hi> coming from <hi>Cadiz</hi> ſhould being Five Tons Home, when the Price in <hi>England</hi> is <hi>Twenty Five Shillings</hi> a Pound, and <hi>Thirty Shillings</hi> a Pound in <hi>Holland,</hi> Is there any Reaſon why this <hi>Cocheneal</hi> ſhould be brought into <hi>England</hi> by <hi>Engliſh Shipping,</hi> put a-ſhoar here, and afterwards Shipp'd for <hi>Holland,</hi> becauſe the Price is higher there than here, and yet Pay no <hi>Cuſtoms inwards nor outwards?</hi> I ſay, No; (the KING ought to have his <hi>Cuſtoms</hi> Paid) nor ought it to be ſo with <hi>Silver.</hi> The ſame may be ſaid for all other Sorts of Goods, as well as <hi>Cocheneal,</hi> if they may be brought in and carried out <hi>Cuſtom-free,</hi> Who would not deal in thoſe that are ſo? For ſuppoſe the <hi>Hollanders</hi> and <hi>Hamburghers</hi> had little or no <hi>Shipping,</hi> It is reaſonable the <hi>Engliſh Merchants,</hi> or any others, ſhould Import Goods in <hi>England,</hi> and, when they think fit, Export them to <hi>Holland</hi> or <hi>Hamborough,</hi> and Pay no <hi>Cuſtoms in nor out?</hi> Surely they ought not, nor will any reaſonable Man ſay they ſhould, unleſs he would have the <hi>King's Cuſtoms</hi> brought to nothing, and the <hi>Publick Expence</hi> barely maintain'd out of the <hi>Crown Lands:</hi> The Caſe is the very ſame with <hi>Silver,</hi> if it be brought in here, and Shipp'd out again, it ought to Pay a very conſiderable <hi>Duty outwards,</hi> though none <hi>inwards;</hi> becauſe the Suffering of <hi>Bullion</hi> to be Exported without Paying a <hi>Duty,</hi> under the Pretence of <hi>Foreign Silver,</hi> hath given great Encouragement, and been the only Cauſe of the <hi>Melting down</hi> of our <hi>Coyn,</hi> and Mixing Thouſands of Ounces of it with a few <hi>Dollars,</hi> which the Exporter hath thought ſufficient to make it paſs for <hi>Foreign Silver;</hi> which <hi>Method</hi> having been Practic'd for ſome Years paſt, hath
+<pb n="36" facs="tcp:39300:19"/>ſwallowed up above one Third of our <hi>Coyn.</hi> And the ſame thing will be Practiz'd more than it ever hath been, when the <hi>Money</hi> is <hi>New Coyned,</hi> and made ready for them, unleſs it be raiſed <hi>Thirty Pounds per Cent.</hi> And, at the ſame time, a <hi>Duty</hi> laid upon all <hi>Bullion,</hi> if <hi>Tranſported.</hi> —</p>
+               <p>Objection. <hi>What Man will bring</hi> Bullion <hi>into the King<g ref="char:EOLhyphen"/>dom, if he may not do what he pleaſeth with it; either</hi> Coyn <hi>it, or</hi> Ship <hi>it abroad for the best of his Advantage?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> What Man would not bring other Goods to <hi>England,</hi> as well as <hi>Silver,</hi> if he may Import and Export them <hi>Cuſtom-free?</hi> Goods that Pay <hi>Cuſtom</hi> inwards, in Reaſon ought to have a draw-back, if Exported; but <hi>Silver</hi> Paying nothing inwards, ought not to be ſuffered to be Ex<g ref="char:EOLhyphen"/>ported without Paying a very conſiderable <hi>Duty,</hi> for the Reaſons afore-ſaid. <hi>(viz.)</hi>
+               </p>
+               <p>
+                  <hi>The Melting down of our Coyn, and the Mixing great Quantities of it with a few Dollars for Foreign Uſe.</hi>
+               </p>
+               <p>Some others may Object, and ſay, If the <hi>Value</hi> of the <hi>Coyn</hi> be raiſed,</p>
+               <list>
+                  <item>
+                     <hi>The King's Revenues,</hi>
+                  </item>
+                  <item>
+                     <hi>Landlords Rents,</hi>
+                  </item>
+                  <item>
+                     <hi>Officers by Land and Sea,</hi>
+                  </item>
+                  <item>
+                     <hi>Servants Wages, and many other Things, will be leſſened.</hi>
+                  </item>
+               </list>
+               <pb n="37" facs="tcp:39300:19"/>
+               <p>This is a Miſtake, and a falſe Imagination of thoſe that aſſert it, for want of well conſidering the Nature of the <hi>Procurer,</hi> and the <hi>Thing procured,</hi> together with the Influence, <hi>Law</hi> and <hi>Cuſtom,</hi> or an <hi>Act of Parliament,</hi> will have on both. — For Example. —</p>
+               <p>Suppoſe with Forty <hi>New Half-Crowns,</hi> Weighing Thirty Nine Ounces, I Buy Sixty Ells of Bayes at <hi>Twenty Pence</hi> an Ell; and with Forty <hi>Clipp'd Half-Crowns,</hi> Weighing Twelve Ounces, you Buy as many Bays every way equal to mine in Goodneſs; Have you not as much for your <hi>Light Money,</hi> as I have for mine that is <hi>Heavy?</hi> Doth not daily Experience ſhew it, That a <hi>Shilling <hi>Clipp'd,</hi>
+                  </hi> Buys and Pays for as much as a <hi>Shilling <hi>Unclipp'd?</hi>
+                  </hi> Doth not that which is Valued <hi>Six Pence</hi> in <hi>Copper Money,</hi> Buy as much as <hi>Six Pence</hi> in <hi>Silver</hi> will? although the <hi>Copper,</hi> in its Intrinſick Value, is not worth above a <hi>Groat.</hi> Theſe are the Effects of <hi>Law</hi> and <hi>Cuſtom,</hi> when Deno<g ref="char:EOLhyphen"/>mination hath given them the Power of Operation; and it will be the ſame in the <hi>New Coyn'd Money;</hi> a <hi>Shilling</hi> Weighing Ninety One Grains and an half, will paſs for <hi>Nineteen Pence Half-Penny,</hi> and Buy and Pay for ſo much, as well as <hi>Nineteen Pence Half-Penny</hi> doth now; and the <hi>New Crown-Piece,</hi> when Valued at <hi>Six Shillings</hi> and <hi>Six Pence,</hi> will Buy and Pay for as many Goods as <hi>Six Shillings</hi> and <hi>Six Pence</hi> now doth, when Eſtabliſh'd by <hi>Law</hi> and <hi>Cuſtom,</hi> to paſs no more for <hi>Five Shillings,</hi> but for <hi>Six Shillings</hi> and <hi>Six Pence.</hi> —</p>
+               <p>In ſhort, The Valuing the <hi>Crown-Piece</hi> at <hi>Six Shillings</hi> and <hi>Six Pence,</hi> will neither — affect nor leſſen</p>
+               <list>
+                  <item>
+                     <hi>The King's Revenues,</hi>
+                  </item>
+                  <item>
+                     <hi>The Landlords Rents,</hi>
+                  </item>
+                  <item>
+                     <hi>The Officers by Sea and Land,</hi>
+                  </item>
+                  <item>
+                     <hi>Servants Wages, nor any thing elſe of that kind:</hi>
+                  </item>
+               </list>
+               <pb n="38" facs="tcp:39300:20"/>
+               <p>But it will have a very great Influence upon the Working <hi>Silver-Smiths,</hi> and ſuch as uſed to <hi>Melt down the Coyn for Exportation;</hi> they only will be defeated, but no Body elſe will be prejudiced by Raiſing the <hi>Value</hi> of the <hi>Coyn;</hi> and therefore ſuch Perſons may think they have Reaſon to exclaim againſt it: But for the Satisfaction of them, and all ſuch who ſhall offer any Arguments againſt <hi>Raiſing the Value of the Coyn,</hi> I ſhall only ask 'em this Queſtion, which will deter<g ref="char:EOLhyphen"/>min the thing, and put an end to all their weak Diſputes.</p>
+               <p>What if the <hi>King</hi> of SPAIN ſhould ſhut up all his <hi>Ports</hi> in AMERICA, and bring no <hi>Silver</hi> from thence for Seven Years or more? or, How if any Difference or Diſorders ſhould fall amongſt the <hi>Spaniards</hi> and <hi>Natives</hi> there, and the <hi>King</hi> of SPAIN, to hinder the <hi>Mines</hi> from Working, ſo that they ſhould Export no <hi>Silver</hi> from thence in that time? Would not your <hi>Crown-Piece</hi> be worth <hi>Seven Shillings</hi> then? Yes, Sir, Twould be worth <hi>Eight Shillings</hi> and more; and happy would he be that could get it: and <hi>One Shilling,</hi> or an Eighth part of the <hi>Crown-Piece</hi> then, would Buy, and Pay for, as much as a <hi>Shilling</hi> doth now, without Leſſening the <hi>King's Revenues, Landlords Rents,</hi> or any thing elſe. And thoſe Perſons who have offered <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> againſt <hi>Raiſing the Value of the Coyn,</hi> or the <hi>holding up the Price of Guinneas,</hi> have raſhly done it, without conſidering the following Circumſtances, and their Effects. — So that, <hi>My Lords</hi> and <hi>Gentlemen,</hi> what You have chiefly to Conſider in this Affair, I Humbly conceive, is for the greateſt part included in theſe following <hi>Articles.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> The great <hi>Damage</hi> and <hi>Loſs</hi> there will be by the <hi>Clipt</hi> and <hi>Counterfeit Money,</hi> being at leaſt <hi>Forty Five Pounds per Cent.</hi> whether it be better to Raiſe a <hi>Tax,</hi> to make the <hi>Clipt Money</hi> good, at the ſame time when the <hi>Money</hi>'s Call'd in; or to raiſe the <hi>Value</hi> of the <hi>Money Thirty Pounds per Cent.</hi> whereby the <hi>Money</hi> will bear moſt of its
+<pb n="39" facs="tcp:39300:20"/>own <hi>Damage,</hi> and excuſe the <hi>Land,</hi> — <hi>till a more plentiful time of Silver comes,</hi> and then the <hi>Coyn</hi> may be reduc'd again as You ſee cauſe.</p>
+               <p>
+                  <hi>Secondly,</hi> The Demand and great Neceſſity <hi>Foreigners</hi> have of <hi>Silver,</hi> and the higheſt <hi>Price</hi> they will give for it; from hence we may judge, <hi>How to Value our New Coyn,</hi> which certainly ought to be Valued <hi>Five Pounds per Cent.</hi> above the <hi>higheſt Price</hi> they will give for <hi>Silver,</hi> otherwiſe it will not eſcape them.</p>
+               <p>
+                  <hi>Thirdly,</hi> When any <hi>Bullion</hi> is Imported, what it ought to be Rated at, being equal to <hi>Standard,</hi> and how many Grains that Rate ſhall be, under the Price of <hi>Standard Money,</hi> — otherwiſe, the <hi>Silver-Smiths</hi> will Work upon the <hi>Coyn,</hi> and not give themſelves the Trouble to ſeek out for Buying <hi>Bullion;</hi> Nor will any Perſon ſend <hi>Bullion</hi> to the <hi>Tower</hi> to be <hi>Coyn'd</hi> unleſs the <hi>Coyn'd Money</hi> be above the <hi>Price</hi> of <hi>Bullion.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> What <hi>Price</hi> the <hi>Silver-Smiths</hi> ſhall Sell their <hi>Bulky Plain Plate</hi> at, being <hi>Standard,</hi> above the <hi>Price</hi> or <hi>Weight</hi> of <hi>New Coyn'd Money,</hi> which ought to be very little.</p>
+               <p>
+                  <hi>Fifthly,</hi> That a <hi>Duty</hi> anſwerable to what <hi>Foreigners</hi> will give for <hi>Silver,</hi> above the <hi>Price</hi> of our <hi>preſent Coyn,</hi> be laid upon <hi>Bullion,</hi> if <hi>Tranſported;</hi> (with a <hi>Proviſo</hi> for the <hi>Eaſt-India Company,</hi> and all our <hi>Plantations;</hi> as alſo for what hath Reference to <hi>His Majeſty's Affairs</hi>) which <hi>Duty</hi> will prevent the <hi>Melting down of our Coyn for Foreign Uſe.</hi> —</p>
+               <p>
+                  <hi>Sixthly,</hi> To conſider if it will not be more convenient, and a great Eaſe and Satisfaction to the People; as alſo, a Help to
+<pb n="40" facs="tcp:39300:21"/>Finiſh the <hi>Coynage</hi> with a quicker Diſpatch, To have <hi>Twelve Mints</hi> ſet up in the moſt convenient Places of <hi>England</hi> and <hi>Wales,</hi> where the <hi>County-Offices</hi> ſhall be kept, rather than to bring all the <hi>Money</hi> from the Remote Parts of <hi>England</hi> and <hi>Wales</hi> to <hi>London:</hi> And that there be a <hi>Refiner</hi> at every <hi>Mint</hi> to Melt down the <hi>Bad Money,</hi> and to blow the <hi>Baſe Metal</hi> from it, till it is brought to the Perfection of <hi>Standard Silver.</hi>
+               </p>
+               <p>
+                  <hi>Seventhly,</hi> That if You Raiſe the <hi>Coyn <hi>Thirty Pounds per Cent.</hi>
+                  </hi> That will nearly Diſcharge the <hi>Loſs</hi> of the <hi>Clipp'd Money;</hi> and when it appears, by the <hi>Regiſter</hi> of every par<g ref="char:EOLhyphen"/>ticular <hi>County,</hi> and the <hi>Pariſhes</hi> thereof, what further Damage than <hi>Thirty Pounds per Cent.</hi> each <hi>Pariſh</hi> ſhall ſuffer, That then it be Enacted;</p>
+               <p>
+                  <hi>THAT every Pariſh ſhall Tax and Aſſeſs it ſelf with a Tax, to be Paid at Four Yearly Payments, to make the Remaining Damage good.</hi>
+               </p>
+               <p>With Submiſſion, I Humbly Offer this, as my Reaſon, becauſe, in all Publick Affairs, one <hi>Pariſh</hi> doth not bear the Charges of another; for, certainly, the more <hi>Money</hi> there is in any <hi>Pariſh,</hi> the better able that <hi>Pariſh</hi> will be to bear this <hi>Tax.</hi> And I know no Reaſon why that <hi>Pariſh,</hi> or that <hi>Man,</hi> who hath little <hi>Clipp'd Money,</hi> ſhould bear the Burthen of ſuch as have.</p>
+               <p>
+                  <hi>Eighthly,</hi> Whereas ſome Perſons have Writ againſt the Price of <hi>Guinneas</hi> going at <hi>Thirty Shillings,</hi> and ſeem to aſſert, as if that Price had been, or would be, a <hi>Damage</hi> to the <hi>Nation;</hi> this proceeds from Want of Conſideration, and therefore renders them that think ſo Guilty of Miſtake; for having not Examin'd the paſt, preſent, and future Cir<g ref="char:EOLhyphen"/>cumſtances of <hi>England,</hi> their Opinions are given without
+<pb n="41" facs="tcp:39300:21"/>any Reaſon, or juſt Cauſe, for what they ſay, as may appear by what follows. — I am of Opinion, That the Price of <hi>Guinneas</hi> coming up to <hi>Thirty Shillings,</hi> hath done the Nation ſuch a piece of Service, that all the Induſtry and Wit of Man could not have found out a better way; for the Support of the <hi>Government,</hi> and Good of the <hi>People,</hi> in this Jun<g ref="char:EOLhyphen"/>cture, which I make out thus. — Suppoſe there have been 500000 <hi>Guinneas</hi> Imported in <hi>England</hi> ſince <hi>Chriſtmas</hi> 1694, the <hi>Guinneas</hi> are but Return'd to the <hi>Countrey</hi> where they ought to be; and without this Accident of their Riſe, we could not have contriv'd any way to have brought them to <hi>England</hi> again: Now, Valuing each <hi>Guinnea</hi> at <hi>Thirty Shillings,</hi> although they came in at cheaper Prices; but admitting them to be <hi>Eight Shillings</hi> and <hi>Six Pence</hi> more than they formerly went at, the Advance upon them comes but to 212500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> — And, What if it doth? Is this ſo much? every Penny of this Money, and more, hath been, and will be got before <hi>Chriſtmas</hi> next, by the Advance of our Goods, which have been, and will be, Shipp'd off for <hi>Foreign Uſe.</hi> Since the <hi>Firſt</hi> of <hi>May</hi> laſt, by this Happy Accident of the <hi>Riſe of Guinneas,</hi> we have brought all <hi>Europe,</hi> a great Part of <hi>Aſia,</hi> ſome Places in <hi>Africa,</hi> and the moſt Parts of <hi>America,</hi> that have any Correſpondence with <hi>Europe,</hi> to be Contributors towards the <hi>Charge of the War,</hi> which no other Contrivance or Invention could have affected, but only the <hi>Riſe of Guinneas;</hi> and whe<g ref="char:EOLhyphen"/>ther this be taken Notice off or no, it is infallibly true. <hi>France</hi> it ſelf, ſince the <hi>Riſe of Guinneas,</hi> hath not eſcap'd bearing a proportionable Part of our Charge; for ſince the <hi>Riſe of Guinneas,</hi> all Goods we Export have Riſen, and now the <hi>Foreigners</hi> Pay for them, which, before the <hi>Riſe of Guinneas,</hi> they had, in a manner, for Fetching away, whereby the <hi>Natives</hi> of <hi>England</hi> bore all the <hi>Burthen,</hi> and wrought only to make the <hi>Foreigner Rich.</hi>
+               </p>
+               <pb n="42" facs="tcp:39300:22"/>
+               <p>
+                  <hi>Objection.</hi> But ſome may Object, and ſay, <hi>The <hi>Fo<g ref="char:EOLhyphen"/>reigners</hi> will pour in all their <hi>Gold</hi> upon us, if <hi>Guinneas</hi> go at this high Rate.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The more they bring, the better, Experience will ſhew it ſelf, and 'twill certainly prove true, <hi>Where-ever the Gold or Silver is, there the Trade muſt and will be.</hi> But there is no Reaſon for ſuch Perſons to believe, that any Part of <hi>Europe</hi> is ſo fluſh of <hi>Gold,</hi> as to hold out Annually with the Production or Manufactures of the <hi>Goods of England. Gold</hi> doth not multiply and increaſe in <hi>Holland</hi> every Day, Week, and Month, as the <hi>Goods</hi> and <hi>Manu<g ref="char:EOLhyphen"/>factures</hi> of <hi>England</hi> do, (eſpecially when they are incourag'd in Price). Thoſe that ſent the <hi>Guinneas</hi> before, may ſend as many more, if they can tell where to have them, and be furniſh'd with <hi>Goods</hi> again. They have nothing but the Labour of our Hands for their <hi>Gold;</hi> and that Labour, or the Product thereof, for good Prices we are very willing to afford them, and ſhould be glad of the Opportunity, that all our Hands might go to work. — But ſome Perſons (whoſe Heads are only poſſeſs'd with <hi>Chimaera</hi>'s) are apt to ſay, The <hi>Dutch</hi> and <hi>Hamburghers</hi> have Bought as many Goods as will ſerve them ſome Years, and that they will want no more for ſome time. Theſe are the Fancies and Expreſſions of ſuch People as neither know nor conſider what Uſe or Occaſion all the <hi>North-Eaſt</hi> Parts of <hi>Europe</hi> have for our <hi>Cloathing</hi> in theſe times; ſuch Perſons never thinking what Conſumption and Expence there is of them in <hi>Holland, Flanders, Germany, Poland, Ruſſia, Sweedland, Norway, Hamborough,</hi> and <hi>Denmark;</hi> if they did, they might ſee or underſtand there hath been no more Bought than what there is preſent Demand and Occaſion for; and ſo 'twill be found, they'll be as ready to Buy the next Year, as they have been this, eſpecially if they could hear of the <hi>Fall of your Goods,</hi> and the <hi>Price of Guinneas.</hi> —</p>
+               <pb n="43" facs="tcp:39300:22"/>
+               <p>Another ſort of People are ſo Ignorant to affirm, by our taking their <hi>Guinneas</hi> at high Prices, they have drain'd us of our Goods. I wonder at the Weakneſs of ſuch People<g ref="char:punc">▪</g> and tell them, at this Day there is in <hi>England,</hi> in the <hi>Oars</hi> of <hi>Tin</hi> and <hi>Lead,</hi> and in thoſe Morals ready made, in <hi>Wool,</hi> and the <hi>Woolen Manufactures</hi> ready wrought up, above the Value of <hi>Two Millions</hi> in <hi>Pounds Sterling;</hi> all which we are ready to part with for good Prices, and ſhould be either glad of more <hi>Gold</hi> or <hi>Silver</hi> for them; — Knowing very well we can ſoon make as many more: But I deſire ſuch Perſons to conſider and underſtand, It is not <hi>Holland, Hamborough,</hi> nor any Part of <hi>Europe,</hi> that is in a Condition, or can and will ſpare or part with One Million of <hi>Guinneas,</hi> or the <hi>Value</hi> thereof in other <hi>Gold,</hi> in theſe times, unleſs we <hi>Engliſh</hi> will ſell them our Goods for little or nothing, as we have done of late Years; and then, doubtleſs, they'd be ready to purchaſe them. —</p>
+               <p>Is there any thing more freſh in Memory, than what the <hi>People of this Kingdom</hi> have ſuffered for Six Years laſt paſt? during all which time, the <hi>Manufactures</hi> and <hi>Goods</hi> of our Product, as <hi>Lead, Tin,</hi> all ſorts of <hi>Cloathing, <hi>&amp;c.</hi>
+                  </hi> have been at ſuch low Prices, that many Thouſands of Families could ſcarcely get <hi>Bread;</hi> nay, Multitudes have been forc'd to go a <hi>Begging,</hi> and leave their <hi>Habitations,</hi> becauſe thoſe that had <hi>Stocks of Money,</hi> and uſed to Imploy them, caſt them off, in regard they could get no<g ref="char:EOLhyphen"/>thing by their <hi>Labour,</hi> when they had Wrought it up, by reaſon of the low Price of our Goods? Did not this Diſcourage the Undertakers for Imploying them? upon which, many have been frequently heard ſay, lamenting their Condition; <hi>What ſhould I Work for? My Work affords me nothing when I have made it?</hi> Can this be thought any thing but a diſmal and deplorable State of the People? and ſince thoſe times are grown better, by the Advance of <hi>Guinneas,</hi> which occaſioned this Riſe of <hi>Goods,</hi> is it not neceſſary
+<pb n="44" facs="tcp:39300:23"/>to keep Both up, whereby to prevent the People from Groaning under that Burthen again? What better can any Perſon be by Lowering the <hi>Price of Guinneas,</hi> which have done ſo much Good? I am ſure there are few, if any, in <hi>England,</hi> that will be Gainers by their Fall; but, 'tis certain, Abundance would be very great Loſers, if their Price ſhould come lower. And You may conclude, The <hi>Foreigners</hi> deſire nothing more than the <hi>Fall of Guinneas</hi> here, whereby they might have an Opportunity to compaſs them; and then they doubt not but to bring down the Price of our <hi>Goods</hi> again, and ſo free themſelves from Bearing any Part of our <hi>Charges of the War;</hi> Therefore, I will lay down this for a Maxim: <hi>Whilſt ſuch Goods of our own Growth carry a high Price, as are Exported for Fo<g ref="char:EOLhyphen"/>reign Vſe, all Parts of the Earth, where-ever they are uſed, contribute towards our Charges of the War; and when ſuch Goods are low here, we only bear the Burthen, and the Foreigners have the Advantage thereof.</hi> Therefore, What Prudence can there be in Lowering the <hi>Price</hi> of <hi>Guinneas,</hi> which have cauſed ſo much Good? If <hi>Guinneas</hi> fall, the Price of <hi>Goods</hi> go down, and then You will hear of freſh Complaints from theſe People and Places following, who, for Six Years paſt, have labour'd under very great Difficulties, and a Multitude more in <hi>England</hi> beſides theſe, whoſe Number is not a few.</p>
+               <p>In the County of <hi>Cornwall</hi> there may be Imployed in the <hi>Tin-Mines,</hi> and ſuch as have a Dependance upon them for their Livings, one way or another, about 30000 People. And upon <hi>Lead-Mines,</hi> in the Counties of <hi>Somerſet, Cardigan, Montgomery, Denby, Flint, Shrewsbury, Derby, York, Weſtmore<g ref="char:EOLhyphen"/>land, Cumberland, Northumberland,</hi> and <hi>Durham,</hi> about 120000. In all Sorts of <hi>Woolen Manufactures,</hi> and <hi>Cloathing Trade,</hi> in the Counties of <hi>England</hi> and <hi>Wales,</hi> at leaſt 1500000. Making in all 1650000.</p>
+               <pb n="45" facs="tcp:39300:23"/>
+               <p>Working People, who if <hi>Guinneas</hi> fall, and the Price of <hi>Goods</hi> go down, at a time when the <hi>Money</hi>'s Call'd in, and they Charg'd with further <hi>Taxes</hi> (than they have been) which, together with their then Want of Credit, added to to the Loſs by <hi>Clipt</hi> and <hi>Counterfeit Money,</hi> will render them inclinable to reckon themſelves like ſo many <hi>Victims</hi> Sacrific'd by Oppreſſion, and thereby appear both Unable and Unwilling to Pay their Proportions of their <hi>Taxes.</hi>
+               </p>
+               <p>So that, with Submiſſion, in all Humility, I Humbly offer it as my Opinion, for the Good of the People, That <hi>Guinneas</hi> be Eſtabliſh'd at <hi>Thirty Shillings</hi> during the Time of the <hi>War,</hi> or till there is greater Plenty of <hi>Silver,</hi> and <hi>good Money</hi> abroad in the Nation, which will add very much to make the People eaſie, and enable them to Pay their Taxes chearfully; and alſo conduce to the Keeping up the Prices of ſuch Goods as are fit for <hi>Foreign Vſe,</hi> whereby our <hi>Exports</hi> will over-balance our <hi>Imports,</hi> and, in a little time, remove that great <hi>Miſchief</hi> and <hi>Damage</hi> there is, at preſent, by the <hi>Exchange of Money;</hi> which Loſs hath inſenſibly ſtol'n upon us, by Reaſon of the low Price our <hi>Goods</hi> have Sold at for ſome Years paſt. —</p>
+               <p>For Example.—</p>
+               <p>Suppoſe my Correſpondent at <hi>Amſterdam</hi> in <hi>May</hi> laſt ſent me One Hundred Pounds Weight of <hi>Cloves</hi> at <hi>Four Shillings</hi> a Pound, which cometh to <hi>Twenty Pounds;</hi> and ordered me to Return him Two Fodders of <hi>Lead</hi> by the ſame Ships, which being very low at <hi>Nine Pounds</hi> a Fodder, came to <hi>Eighteen Pounds;</hi> ſo I became <hi>Forty Shillings</hi> indebted to him, by reaſon of the low Price of the <hi>Lead,</hi> which if it had been at <hi>Eleven Pounds</hi> a Fodder, as it hath been ſince the <hi>Riſe of Guinneas,</hi> he muſt have allow'd me <hi>Twenty Two Pounds</hi> for my <hi>Lead,</hi> and then he would have been
+<pb n="46" facs="tcp:39300:24"/>
+                  <hi>Forty Shillings</hi> Indebted to me; and ſo my <hi>Export</hi> had over-balanc'd my <hi>Import.</hi> This hath been the unhappy Circumſtance we have lain under, for ſeveral Years paſt in all <hi>Goods;</hi> which, if this <hi>Seſſions of Parliament</hi> would be pleaſed to conſider, and think upon ſome Expedient to Remedy this <hi>Miſchief,</hi> it would alter the <hi>Exchange,</hi> and cauſe a conſiderable Advantage to the <hi>Engliſh.</hi> To Accompliſh which, I ſhall offer my Opinion as followeth. —</p>
+               <p>It is very well known, The <hi>Danes, Sweeds, Nor<g ref="char:EOLhyphen"/>wegians, Bremors, Hamburghers, Hollanders,</hi> and <hi>Flemmings,</hi> can fetch our Goods from <hi>Yarmouth, Boſton, Hull, Stockton,</hi> and <hi>Newcaſtle,</hi> and carry them into any of their Countries as Cheap as we can bring them from theſe Places on our own Coaſt to <hi>London;</hi> ſo that we can ſend no Goods from <hi>London,</hi> to any of thoſe Places, in <hi>Engliſh Ships,</hi> Seal'd by <hi>Engliſh Men,</hi> but what will ſtand us in near <hi>Ten Pounds per Cent.</hi> more than they will do them. —</p>
+               <p>It is alſo known, That the <hi>Genoueſe, Portugueſe,</hi> and the People before-mentioned, do fetch our Goods from <hi>London,</hi> and carry them Abroad, much Cheaper than we can, becauſe our <hi>Freights</hi> are dear, and <hi>Seamens</hi> Wages high; and they <hi>Sealing</hi> with fewer Hands, and Paying leſſer <hi>Freights,</hi> over-do us. Therefore, I Humbly move it with Submiſſion, Whether it may not be reaſonable to lay ſuch a further <hi>Duty</hi> upon all <hi>Goods</hi> that are Shipp'd in <hi>Foreign Bottoms,</hi> and Seal'd with ſuch Hands, as may reduce this Advantage they have of us at preſent, and enable us to perform our Delivery of Goods Abroad as Cheap as they can? — This, although a Digreſſion from the <hi>Coy<g ref="char:EOLhyphen"/>nage,</hi> I hope may be Pardoned. —</p>
+               <p>
+                  <hi>Laſtly,</hi> Be pleaſed to conſider, That Man who had 100 <hi>Pounds</hi> Worth of Goods at <hi>May</hi>-Day laſt, and makes Four
+<pb n="47" facs="tcp:39300:24"/>Returns of them between that time and <hi>Chriſtmas</hi> next, hath or will have, <hi>One Hundred</hi> and <hi>Sixty Pounds</hi> Worth in <hi>New Goods</hi> or <hi>Gold;</hi> and ſo proportionably for a greater or leſſer Sum; Doth not this enable him to Pay the <hi>King's Taxes,</hi> aſſiſt him in ſetting Hands to Work, and gives him ſuch Encouragement as to go chearfully on? and, Who Pays for this? Is it not the <hi>Foreigner,</hi> who deſires to hear of nothing more than the <hi>Fall of our Guinneas,</hi> and the <hi>Price of our Goods;</hi> concluding then he ſhould be freed from bearing any Part of our <hi>Charges,</hi> and we only left to Support the <hi>Burthen of the War:</hi> Whoſe Deſires and Deſigns therein, 'tis hop'd, You, in Your Great Wiſdom, will take all the Care that may be to prevent. Which is what offers at preſent upon this Subject,</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>By Your moſt Humble, And moſt Obedient Servant,</hi> T. H.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="48" facs="tcp:39300:25"/>
+            <head>POSTSCRIPT.</head>
+            <p>ALL ſuch as have, or ſhall hereafter uſe any <hi>Arguments</hi> againſt the — Raiſing the Value of the New Coyn'd <hi>Crown Piece</hi> to <hi>Six Shillings</hi> and <hi>Six Pence,</hi> or are not for Eſta<g ref="char:EOLhyphen"/>bliſhing <hi>Guinneas</hi> at <hi>Thirty Shillings,</hi> as afore-ſaid, are deſired to conſider, That <hi>Silver</hi> was formerly at <hi>Twenty Five Shil<g ref="char:EOLhyphen"/>lings</hi> the Pound Weight; and then ſuch a piece of <hi>Silver</hi> as the New <hi>Crown Piece</hi> is,<note place="margin">27 <hi>Ed.</hi> 3d.</note> went for <hi>Two Shillings;</hi> and, at the ſame time, a Pound Weight of <hi>Gold</hi> was Valued at <hi>Fifteen Pounds,</hi> or <hi>Twenty Five Shil<g ref="char:EOLhyphen"/>lings</hi> an Ounce; and then a piece of <hi>Gold</hi> of the Weight of our <hi>Guinnea</hi> went for <hi>Six Shillings</hi> and <hi>Nine Pence;</hi> whereby it appears, That the Prices of <hi>Silver</hi> and <hi>Gold</hi> have riſen in all <hi>Kings Reigns,</hi> proportionable to the <hi>Trade</hi> there was then in <hi>Merchandizing,</hi> and to the occaſions the <hi>Governments</hi> had for them in thoſe times; ſo that it hath been Cuſtomary to raiſe the Value of <hi>Silver</hi> and <hi>Gold,</hi> as the Occaſions of <hi>Trade</hi> and the Exigency of the <hi>State</hi> have required. And every Rational Man muſt own and confeſs, There is a greater Want of <hi>Money</hi> now, to Supply <hi>Trade,</hi> and to Support the <hi>Government,</hi> than ever there hath been; and therefore the greater need to raiſe them. — Neither have ſuch Perſons any ſolid or true Reaſon to offer againſt Raiſing their <hi>Values,</hi> but becauſe they have been lower before, they would yet have them be ſo; and this is no Reaſon at all; for <hi>Time, Trade,</hi> and <hi>Circumſtances,</hi> have quite Alter'd and Chang'd EUROPE extreamly to what it was formerly, when no <hi>Standing Armies</hi> were on foot; which things being well con<g ref="char:EOLhyphen"/>ſider'd, ſuch Perſons may find, and ſee Cauſe ſufficient to be of another Mind. They ought alſo to conſider, That <hi>Foreigners</hi> have nothing to do with the Species or Subſtance of our <hi>Coyn,</hi> but only with the <hi>Value</hi> thereof.—</p>
+            <pb n="49" facs="tcp:39300:25"/>
+            <p>Furthermore, Be pleaſed to conſider, as an expedient to remove that great Miſchief we labour under by the <hi>Exchange of Money,</hi> and for and towards making our <hi>Exports</hi> balance our <hi>Imports;</hi> as alſo, for Increaſing the <hi>King's Revenues,</hi> and for a <hi>Fund</hi> for Raiſing Supplies.</p>
+            <p>In all Dutiful Submiſſion, I Humbly Propoſe,</p>
+            <p>That a <hi>BILL</hi> may be brought in to lay a <hi>Double Duty</hi> upon all <hi>Goods</hi> that ſhall be Shipp'd for <hi>Foreign Vſe,</hi> after the 25th of <hi>March</hi> 1696, from any Port or Place in <hi>England</hi> or <hi>Wales,</hi> excepting the Port of <hi>London;</hi> and that the <hi>Duties</hi> and <hi>Cuſtoms</hi> may remain and continue there as they now are; becauſe, it is manifeſt, ſince the <hi>Wars</hi> began, and <hi>Goods</hi> have been Sold at low Prices, either <hi>Foreigners,</hi> or any others, may Ship them from theſe Places, and carry them Abroad <hi>Ten, Fifteen, Twenty,</hi> and <hi>Twenty Five Pounds per Cent.</hi> Cheaper than they can be Shipp'd out of the Port of <hi>London,</hi> which, like a <hi>Snake</hi> in the Graſs, hath bit the Nation extreamly: Few Perſons knowing the true Reaſon of this, have met with great Diſappointments in the Sales of their Goods Abroad, not underſtanding where their Misfortunes lay.</p>
+            <p>As for Example.</p>
+            <p>A <hi>Dutch</hi> Ship, or any other Foreign Ship, takes in One Hundred Fodder of <hi>Lead</hi> at <hi>Hull,</hi> at <hi>Nine Pounds Ten Shillings</hi> a Fodder, which, with <hi>Twenty Shillings</hi> a Fodder for the <hi>Cuſtoms,</hi> and <hi>Three Shillings</hi> a Fodder for other Charges, ſtands him on board in <hi>One Thouſand Sixty Five Pounds,</hi> and ſo returns to <hi>Holland</hi> for the reſt of his <hi>Cargo.</hi> — At the ſame time I Ship One Hundred Fodder of <hi>Lead</hi> from the Port of <hi>London,</hi> at <hi>Ten Pounds Fifteen Shillings</hi> a Fodder, and <hi>Twenty Three Shillings</hi> for the <hi>King's Duty,</hi> and other Charges, as afore-ſaid, which ſtands me in <hi>One Thouſand One Hundred</hi> and <hi>Ninety
+<pb n="50" facs="tcp:39300:26"/>Pounds;</hi> and his Coſting but <hi>One Thouſand Sixty Five Pounds,</hi> ſtands him in leſs by <hi>One Hundred Twenty Five Pounds</hi> than mine doth me; beſides, he hath Seven Fodder and Three Hundred and Twelve Pounds Weight in <hi>Lead,</hi> in One Hun<g ref="char:EOLhyphen"/>dred Fodder of <hi>Lead</hi> at <hi>Hull,</hi> more than I have at <hi>London,</hi> which over-Weight is worth <hi>Eighty Eight Pounds</hi> more to him; ſo that in the over-Weight, and the difference of Price, he hath an Advantage of me to the Value of <hi>Two Hundred</hi> and <hi>Thirteen Pounds</hi> in <hi>One Thouſand One Hundred</hi> and <hi>Ninety Pounds</hi> laying out; and, therefore, at <hi>Lisbon, Cales, Leghorn,</hi> or <hi>Venice,</hi> can under-Sell me <hi>Twenty Five Pounds per Cent.</hi> and yet get as much as I do. Is not this a prodigious Ad<g ref="char:EOLhyphen"/>vantage to the <hi>Foreigner,</hi> or who-ever makes uſe of it? and 'tis real Matter of Fact.</p>
+            <p>Therefore, with Submiſſion, I humbly conceive, It is but reaſonable, during the <hi>Wars,</hi> to double the <hi>King's Cu<g ref="char:EOLhyphen"/>ſtoms</hi> in all Places of <hi>England</hi> and <hi>Wales,</hi> the Port of <hi>London</hi> only excepted: and, by this means, the <hi>Foreigner</hi> will be brought to bear ſome part of our <hi>Burthen</hi> of the <hi>War,</hi> by Paying for our <hi>Goods,</hi> whether he hath them at Home or Abroad; and this <hi>Additional Duty</hi> will be a good <hi>Fund</hi> to raiſe <hi>Supplies</hi> for His Majeſty's Uſe; and will raiſe near <hi>Two Hundred Thouſand Pounds <hi>per Annum,</hi>
+               </hi> and greatly conduce to amend the <hi>Loſs</hi> there is now by the <hi>Exchange of Money.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39300:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
